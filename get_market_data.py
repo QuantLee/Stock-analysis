@@ -9,14 +9,14 @@ import time
 import save_tickers
 
 
-# define start time and end time
-start = datetime.datetime(2017, 1, 1) - datetime.timedelta(days=1)
+# define start time and end time(change of time: datetime.timedelta(days=1))
+start = datetime.datetime(2016, 1, 1)
 end = datetime.datetime.now(pytz.timezone('America/New_York'))
 
 
 def get_data(reload_sp500=False):
     '''
-        the default input of reload_sp500 is False. If it si true, all tickers will be renewed.
+        the default input of reload_sp500 is False. If it is true, all tickers will be renewed.
     '''
     # renew the database, delete all stock files
     # filelist = [f for f in os.listdir("./stock_dfs") if f.endswith(".csv")]
@@ -105,8 +105,9 @@ def Rate_return_compile():
         else:
             main_df = main_df.join(df.shift(1) / df - 1, how='outer')
     main_df.dropna()
-    print(main_df.head())
+    print(main_df.head(10))
     main_df.to_csv('sp500_joined_rates.csv')
+    return main_df
 
 
 def compile_newest_OHLCV():

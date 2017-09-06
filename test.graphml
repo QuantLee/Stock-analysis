@@ -1,0 +1,3378 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="ABT" />
+    <node id="IRM" />
+    <node id="SRCL" />
+    <node id="GD" />
+    <node id="DHR" />
+    <node id="ALL" />
+    <node id="ITW" />
+    <node id="ROP" />
+    <node id="LEN" />
+    <node id="INTC" />
+    <node id="DISH" />
+    <node id="DGX" />
+    <node id="MDLZ" />
+    <node id="SPLS" />
+    <node id="JCI" />
+    <node id="NOC" />
+    <node id="FTV" />
+    <node id="AMP" />
+    <node id="TIF" />
+    <node id="BF.B" />
+    <node id="EW" />
+    <node id="SNI" />
+    <node id="COTY" />
+    <node id="COF" />
+    <node id="LB" />
+    <node id="CMA" />
+    <node id="CHD" />
+    <node id="QCOM" />
+    <node id="GRMN" />
+    <node id="EMN" />
+    <node id="CBS" />
+    <node id="BHGE" />
+    <node id="EOG" />
+    <node id="HCN" />
+    <node id="MTD" />
+    <node id="FFIV" />
+    <node id="ROK" />
+    <node id="PVH" />
+    <node id="XYL" />
+    <node id="JWN" />
+    <node id="SYF" />
+    <node id="GPS" />
+    <node id="UNM" />
+    <node id="MO" />
+    <node id="KEY" />
+    <node id="XEL" />
+    <node id="PEG" />
+    <node id="DTE" />
+    <node id="PWR" />
+    <node id="HBI" />
+    <node id="HPQ" />
+    <node id="DG" />
+    <node id="HSIC" />
+    <node id="YUM" />
+    <node id="CMCSA" />
+    <node id="PG" />
+    <node id="PNC" />
+    <node id="WM" />
+    <node id="AAP" />
+    <node id="FDX" />
+    <node id="ICE" />
+    <node id="EXPE" />
+    <node id="PRU" />
+    <node id="FAST" />
+    <node id="AON" />
+    <node id="ADSK" />
+    <node id="NEM" />
+    <node id="PXD" />
+    <node id="OXY" />
+    <node id="SYMC" />
+    <node id="ABC" />
+    <node id="AIV" />
+    <node id="ULTA" />
+    <node id="PLD" />
+    <node id="NEE" />
+    <node id="RIG" />
+    <node id="EXC" />
+    <node id="TSO" />
+    <node id="SCHW" />
+    <node id="NWSA" />
+    <node id="WHR" />
+    <node id="FMC" />
+    <node id="ESS" />
+    <node id="WMT" />
+    <node id="HSY" />
+    <node id="DFS" />
+    <node id="FITB" />
+    <node id="HUM" />
+    <node id="AME" />
+    <node id="CVX" />
+    <node id="EQR" />
+    <node id="AET" />
+    <node id="MAA" />
+    <node id="SPGI" />
+    <node id="DISCA" />
+    <node id="CHTR" />
+    <node id="RL" />
+    <node id="ALGN" />
+    <node id="LLL" />
+    <node id="WU" />
+    <node id="PHM" />
+    <node id="NTRS" />
+    <node id="TROW" />
+    <node id="BMY" />
+    <node id="F" />
+    <node id="HAS" />
+    <node id="EXPD" />
+    <node id="CBG" />
+    <node id="MCHP" />
+    <node id="LUV" />
+    <node id="MYL" />
+    <node id="GPC" />
+    <node id="EA" />
+    <node id="LLY" />
+    <node id="RSG" />
+    <node id="LVLT" />
+    <node id="WBA" />
+    <node id="MNST" />
+    <node id="VLO" />
+    <node id="WYN" />
+    <node id="VTR" />
+    <node id="ETR" />
+    <node id="CTAS" />
+    <node id="TSN" />
+    <node id="DD" />
+    <node id="BCR" />
+    <node id="ROST" />
+    <node id="SYY" />
+    <node id="GE" />
+    <node id="STX" />
+    <node id="SO" />
+    <node id="RHI" />
+    <node id="JNJ" />
+    <node id="AVY" />
+    <node id="PH" />
+    <node id="LKQ" />
+    <node id="RE" />
+    <node id="UPS" />
+    <node id="RJF" />
+    <node id="IPG" />
+    <node id="HP" />
+    <node id="AN" />
+    <node id="WAT" />
+    <node id="ANTM" />
+    <node id="ILMN" />
+    <node id="WYNN" />
+    <node id="NUE" />
+    <node id="ZION" />
+    <node id="SWK" />
+    <node id="NFX" />
+    <node id="AES" />
+    <node id="CTSH" />
+    <node id="HD" />
+    <node id="REGN" />
+    <node id="DHI" />
+    <node id="NFLX" />
+    <node id="NSC" />
+    <node id="AKAM" />
+    <node id="SNA" />
+    <node id="TSS" />
+    <node id="MKC" />
+    <node id="CXO" />
+    <node id="AAL" />
+    <node id="AIZ" />
+    <node id="BK" />
+    <node id="CNP" />
+    <node id="CTL" />
+    <node id="VFC" />
+    <node id="IVZ" />
+    <node id="PSX" />
+    <node id="ANSS" />
+    <node id="HRL" />
+    <node id="CVS" />
+    <node id="GS" />
+    <node id="EFX" />
+    <node id="EMR" />
+    <node id="KSU" />
+    <node id="PYPL" />
+    <node id="SHW" />
+    <node id="CTXS" />
+    <node id="DVA" />
+    <node id="HRS" />
+    <node id="LOW" />
+    <node id="PCAR" />
+    <node id="SLB" />
+    <node id="UAL" />
+    <node id="D" />
+    <node id="SJM" />
+    <node id="FE" />
+    <node id="WMB" />
+    <node id="CMI" />
+    <node id="IP" />
+    <node id="FRT" />
+    <node id="BBT" />
+    <node id="PX" />
+    <node id="CSCO" />
+    <node id="GT" />
+    <node id="RTN" />
+    <node id="ECL" />
+    <node id="UNH" />
+    <node id="HPE" />
+    <node id="CAH" />
+    <node id="HOLX" />
+    <node id="TWX" />
+    <node id="NKE" />
+    <node id="HES" />
+    <node id="AXP" />
+    <node id="FLIR" />
+    <node id="MRK" />
+    <node id="HON" />
+    <node id="SEE" />
+    <node id="XL" />
+    <node id="ES" />
+    <node id="VMC" />
+    <node id="CSX" />
+    <node id="PCLN" />
+    <node id="MAC" />
+    <node id="BBBY" />
+    <node id="SPG" />
+    <node id="BWA" />
+    <node id="HRB" />
+    <node id="ATVI" />
+    <node id="TEL" />
+    <node id="VRSN" />
+    <node id="WDC" />
+    <node id="COO" />
+    <node id="SRE" />
+    <node id="ISRG" />
+    <node id="UA" />
+    <node id="GIS" />
+    <node id="REG" />
+    <node id="PEP" />
+    <node id="SCG" />
+    <node id="NVDA" />
+    <node id="ABBV" />
+    <node id="KR" />
+    <node id="ORCL" />
+    <node id="RRC" />
+    <node id="VZ" />
+    <node id="MAR" />
+    <node id="DUK" />
+    <node id="MRO" />
+    <node id="JEC" />
+    <node id="UHS" />
+    <node id="BXP" />
+    <node id="COST" />
+    <node id="MAT" />
+    <node id="MON" />
+    <node id="WY" />
+    <node id="MTB" />
+    <node id="NLSN" />
+    <node id="A" />
+    <node id="PNR" />
+    <node id="COH" />
+    <node id="URI" />
+    <node id="PM" />
+    <node id="MA" />
+    <node id="TRIP" />
+    <node id="M" />
+    <node id="USB" />
+    <node id="HAL" />
+    <node id="EIX" />
+    <node id="HBAN" />
+    <node id="TXN" />
+    <node id="ADBE" />
+    <node id="AMAT" />
+    <node id="GOOGL" />
+    <node id="MMC" />
+    <node id="KORS" />
+    <node id="ALXN" />
+    <node id="BAC" />
+    <node id="KIM" />
+    <node id="RHT" />
+    <node id="GILD" />
+    <node id="COG" />
+    <node id="IT" />
+    <node id="IR" />
+    <node id="BA" />
+    <node id="ETFC" />
+    <node id="NWS" />
+    <node id="CFG" />
+    <node id="HST" />
+    <node id="BLK" />
+    <node id="NRG" />
+    <node id="EQIX" />
+    <node id="FTI" />
+    <node id="CHRW" />
+    <node id="AMGN" />
+    <node id="FLR" />
+    <node id="VRSK" />
+    <node id="CB" />
+    <node id="ED" />
+    <node id="AAPL" />
+    <node id="KMB" />
+    <node id="TMO" />
+    <node id="WFC" />
+    <node id="EBAY" />
+    <node id="IBM" />
+    <node id="EVHC" />
+    <node id="RAI" />
+    <node id="LEG" />
+    <node id="SNPS" />
+    <node id="FCX" />
+    <node id="PKI" />
+    <node id="MU" />
+    <node id="DE" />
+    <node id="APA" />
+    <node id="EXR" />
+    <node id="K" />
+    <node id="WRK" />
+    <node id="ADI" />
+    <node id="HCA" />
+    <node id="MCD" />
+    <node id="APD" />
+    <node id="FOX" />
+    <node id="O" />
+    <node id="BAX" />
+    <node id="XLNX" />
+    <node id="CERN" />
+    <node id="UDR" />
+    <node id="AMD" />
+    <node id="AEE" />
+    <node id="AVGO" />
+    <node id="PGR" />
+    <node id="ACN" />
+    <node id="MCO" />
+    <node id="NTAP" />
+    <node id="FLS" />
+    <node id="CBOE" />
+    <node id="IFF" />
+    <node id="C" />
+    <node id="HLT" />
+    <node id="GOOG" />
+    <node id="UNP" />
+    <node id="FOXA" />
+    <node id="GLW" />
+    <node id="PFE" />
+    <node id="VAR" />
+    <node id="AWK" />
+    <node id="STI" />
+    <node id="MS" />
+    <node id="HIG" />
+    <node id="DIS" />
+    <node id="ALK" />
+    <node id="ADM" />
+    <node id="GPN" />
+    <node id="FISV" />
+    <node id="CAT" />
+    <node id="TAP" />
+    <node id="AJG" />
+    <node id="OMC" />
+    <node id="TSCO" />
+    <node id="SWKS" />
+    <node id="CAG" />
+    <node id="ADS" />
+    <node id="DISCK" />
+    <node id="TRV" />
+    <node id="MSFT" />
+    <node id="PDCO" />
+    <node id="WLTW" />
+    <node id="BDX" />
+    <node id="ADP" />
+    <node id="JPM" />
+    <node id="BLL" />
+    <node id="TJX" />
+    <node id="XRX" />
+    <node id="EQT" />
+    <node id="PNW" />
+    <node id="INFO" />
+    <node id="PFG" />
+    <node id="ARE" />
+    <node id="PSA" />
+    <node id="APH" />
+    <node id="MLM" />
+    <node id="GGP" />
+    <node id="CCL" />
+    <node id="RCL" />
+    <node id="BBY" />
+    <node id="MOS" />
+    <node id="DOW" />
+    <node id="PBCT" />
+    <node id="CPB" />
+    <node id="WEC" />
+    <node id="KMX" />
+    <node id="FIS" />
+    <node id="KMI" />
+    <node id="COP" />
+    <node id="TXT" />
+    <node id="XRAY" />
+    <node id="DPS" />
+    <node id="KSS" />
+    <node id="COL" />
+    <node id="KLAC" />
+    <node id="LNC" />
+    <node id="NAVI" />
+    <node id="AMT" />
+    <node id="PCG" />
+    <node id="MSI" />
+    <node id="SIG" />
+    <node id="LH" />
+    <node id="MDT" />
+    <node id="SYK" />
+    <node id="MUR" />
+    <node id="PAYX" />
+    <node id="BSX" />
+    <node id="CI" />
+    <node id="AYI" />
+    <node id="ETN" />
+    <node id="AMG" />
+    <node id="NI" />
+    <node id="ALLE" />
+    <node id="ZBH" />
+    <node id="KHC" />
+    <node id="CELG" />
+    <node id="DVN" />
+    <node id="OKE" />
+    <node id="LRCX" />
+    <node id="MNK" />
+    <node id="APC" />
+    <node id="LNT" />
+    <node id="IDXX" />
+    <node id="ESRX" />
+    <node id="GM" />
+    <node id="VIAB" />
+    <node id="MAS" />
+    <node id="NOV" />
+    <node id="JBHT" />
+    <node id="L" />
+    <node id="DLPH" />
+    <node id="MPC" />
+    <node id="INCY" />
+    <node id="CLX" />
+    <node id="AVB" />
+    <node id="V" />
+    <node id="MET" />
+    <node id="ALB" />
+    <node id="CHK" />
+    <node id="FL" />
+    <node id="MHK" />
+    <node id="AMZN" />
+    <node id="DRI" />
+    <node id="KO" />
+    <node id="CRM" />
+    <node id="JNPR" />
+    <node id="HOG" />
+    <node id="QRVO" />
+    <node id="MMM" />
+    <node id="PPG" />
+    <node id="ZTS" />
+    <node id="ORLY" />
+    <node id="SLG" />
+    <node id="TDG" />
+    <node id="DLR" />
+    <node id="BEN" />
+    <node id="DAL" />
+    <node id="T" />
+    <node id="XEC" />
+    <node id="FB" />
+    <node id="DLTR" />
+    <node id="AFL" />
+    <node id="FBHS" />
+    <node id="GWW" />
+    <node id="BIIB" />
+    <node id="AIG" />
+    <node id="STZ" />
+    <node id="PRGO" />
+    <node id="HCP" />
+    <node id="CME" />
+    <node id="PPL" />
+    <node id="SBUX" />
+    <node id="CMG" />
+    <node id="UAA" />
+    <node id="RF" />
+    <node id="INTU" />
+    <node id="CMS" />
+    <node id="MCK" />
+    <node id="CL" />
+    <node id="DOV" />
+    <node id="WFM" />
+    <node id="ARNC" />
+    <node id="AZO" />
+    <node id="CCI" />
+    <node id="EL" />
+    <node id="STT" />
+    <node id="CNC" />
+    <node id="XOM" />
+    <node id="BRK.B" />
+    <node id="VRTX" />
+    <node id="UTX" />
+    <node id="CINF" />
+    <node id="TGT" />
+    <node id="AGN" />
+    <node id="CSRA" />
+    <node id="LUK" />
+    <node id="TMK" />
+    <node id="AEP" />
+    <node id="CF" />
+    <node id="VNO" />
+    <node id="NDAQ" />
+    <node id="CA" />
+    <node id="LYB" />
+    <edge source="ABT" target="BHGE" />
+    <edge source="IRM" target="BHGE" />
+    <edge source="SRCL" target="BHGE" />
+    <edge source="GD" target="ITW" />
+    <edge source="GD" target="NOC" />
+    <edge source="GD" target="BHGE" />
+    <edge source="GD" target="FDX" />
+    <edge source="GD" target="LLL" />
+    <edge source="GD" target="RTN" />
+    <edge source="GD" target="HON" />
+    <edge source="GD" target="MMM" />
+    <edge source="GD" target="UTX" />
+    <edge source="ALL" target="AIZ" />
+    <edge source="ALL" target="XL" />
+    <edge source="ALL" target="USB" />
+    <edge source="ALL" target="MMC" />
+    <edge source="ALL" target="CB" />
+    <edge source="ALL" target="PGR" />
+    <edge source="ALL" target="AJG" />
+    <edge source="ALL" target="TRV" />
+    <edge source="ALL" target="L" />
+    <edge source="ALL" target="CINF" />
+    <edge source="ALL" target="TMK" />
+    <edge source="ITW" target="ROP" />
+    <edge source="ITW" target="JCI" />
+    <edge source="ITW" target="FTV" />
+    <edge source="ITW" target="AMP" />
+    <edge source="ITW" target="EMN" />
+    <edge source="ITW" target="BHGE" />
+    <edge source="ITW" target="ROK" />
+    <edge source="ITW" target="UNM" />
+    <edge source="ITW" target="PWR" />
+    <edge source="ITW" target="PNC" />
+    <edge source="ITW" target="FDX" />
+    <edge source="ITW" target="PRU" />
+    <edge source="ITW" target="AME" />
+    <edge source="ITW" target="EXPD" />
+    <edge source="ITW" target="RSG" />
+    <edge source="ITW" target="CTAS" />
+    <edge source="ITW" target="PH" />
+    <edge source="ITW" target="UPS" />
+    <edge source="ITW" target="SWK" />
+    <edge source="ITW" target="HRS" />
+    <edge source="ITW" target="PCAR" />
+    <edge source="ITW" target="CMI" />
+    <edge source="ITW" target="PX" />
+    <edge source="ITW" target="RTN" />
+    <edge source="ITW" target="ECL" />
+    <edge source="ITW" target="AXP" />
+    <edge source="ITW" target="HON" />
+    <edge source="ITW" target="TEL" />
+    <edge source="ITW" target="MTB" />
+    <edge source="ITW" target="PNR" />
+    <edge source="ITW" target="MA" />
+    <edge source="ITW" target="USB" />
+    <edge source="ITW" target="TXN" />
+    <edge source="ITW" target="IR" />
+    <edge source="ITW" target="BLK" />
+    <edge source="ITW" target="DE" />
+    <edge source="ITW" target="UNP" />
+    <edge source="ITW" target="GLW" />
+    <edge source="ITW" target="STI" />
+    <edge source="ITW" target="AJG" />
+    <edge source="ITW" target="PFG" />
+    <edge source="ITW" target="APH" />
+    <edge source="ITW" target="LNC" />
+    <edge source="ITW" target="PAYX" />
+    <edge source="ITW" target="ETN" />
+    <edge source="ITW" target="JBHT" />
+    <edge source="ITW" target="L" />
+    <edge source="ITW" target="MMM" />
+    <edge source="ITW" target="DOV" />
+    <edge source="ITW" target="BRK.B" />
+    <edge source="ITW" target="UTX" />
+    <edge source="ITW" target="TMK" />
+    <edge source="ROP" target="FTV" />
+    <edge source="ROP" target="EMN" />
+    <edge source="ROP" target="BHGE" />
+    <edge source="ROP" target="ROK" />
+    <edge source="ROP" target="PRU" />
+    <edge source="ROP" target="AME" />
+    <edge source="ROP" target="PH" />
+    <edge source="ROP" target="IVZ" />
+    <edge source="ROP" target="EFX" />
+    <edge source="ROP" target="CMI" />
+    <edge source="ROP" target="HON" />
+    <edge source="ROP" target="TEL" />
+    <edge source="ROP" target="A" />
+    <edge source="ROP" target="USB" />
+    <edge source="ROP" target="BLK" />
+    <edge source="ROP" target="GLW" />
+    <edge source="ROP" target="AJG" />
+    <edge source="ROP" target="MSFT" />
+    <edge source="ROP" target="PFG" />
+    <edge source="ROP" target="APH" />
+    <edge source="ROP" target="LNC" />
+    <edge source="ROP" target="ETN" />
+    <edge source="ROP" target="ALLE" />
+    <edge source="ROP" target="BRK.B" />
+    <edge source="ROP" target="TMK" />
+    <edge source="LEN" target="PHM" />
+    <edge source="LEN" target="DHI" />
+    <edge source="INTC" target="BHGE" />
+    <edge source="INTC" target="MCHP" />
+    <edge source="INTC" target="MA" />
+    <edge source="INTC" target="TXN" />
+    <edge source="INTC" target="AMAT" />
+    <edge source="INTC" target="MSFT" />
+    <edge source="INTC" target="KLAC" />
+    <edge source="DGX" target="BHGE" />
+    <edge source="DGX" target="AXP" />
+    <edge source="MDLZ" target="BHGE" />
+    <edge source="MDLZ" target="GIS" />
+    <edge source="MDLZ" target="K" />
+    <edge source="JCI" target="EMN" />
+    <edge source="JCI" target="ROK" />
+    <edge source="JCI" target="PWR" />
+    <edge source="JCI" target="AME" />
+    <edge source="JCI" target="PH" />
+    <edge source="JCI" target="IPG" />
+    <edge source="JCI" target="CMI" />
+    <edge source="JCI" target="HON" />
+    <edge source="JCI" target="TEL" />
+    <edge source="JCI" target="PNR" />
+    <edge source="JCI" target="IR" />
+    <edge source="JCI" target="BLK" />
+    <edge source="JCI" target="APD" />
+    <edge source="JCI" target="CAT" />
+    <edge source="JCI" target="ETN" />
+    <edge source="JCI" target="FBHS" />
+    <edge source="JCI" target="DOV" />
+    <edge source="JCI" target="UTX" />
+    <edge source="NOC" target="BHGE" />
+    <edge source="NOC" target="LLL" />
+    <edge source="NOC" target="RTN" />
+    <edge source="NOC" target="UTX" />
+    <edge source="FTV" target="ROK" />
+    <edge source="FTV" target="AME" />
+    <edge source="FTV" target="PH" />
+    <edge source="FTV" target="HON" />
+    <edge source="FTV" target="TEL" />
+    <edge source="FTV" target="PNR" />
+    <edge source="FTV" target="MA" />
+    <edge source="FTV" target="IR" />
+    <edge source="FTV" target="GOOG" />
+    <edge source="FTV" target="MSFT" />
+    <edge source="FTV" target="APH" />
+    <edge source="FTV" target="ETN" />
+    <edge source="AMP" target="COF" />
+    <edge source="AMP" target="CMA" />
+    <edge source="AMP" target="EMN" />
+    <edge source="AMP" target="ROK" />
+    <edge source="AMP" target="UNM" />
+    <edge source="AMP" target="KEY" />
+    <edge source="AMP" target="PNC" />
+    <edge source="AMP" target="PRU" />
+    <edge source="AMP" target="SCHW" />
+    <edge source="AMP" target="DFS" />
+    <edge source="AMP" target="FITB" />
+    <edge source="AMP" target="AME" />
+    <edge source="AMP" target="SPGI" />
+    <edge source="AMP" target="NTRS" />
+    <edge source="AMP" target="TROW" />
+    <edge source="AMP" target="RHI" />
+    <edge source="AMP" target="PH" />
+    <edge source="AMP" target="RJF" />
+    <edge source="AMP" target="ZION" />
+    <edge source="AMP" target="BK" />
+    <edge source="AMP" target="IVZ" />
+    <edge source="AMP" target="GS" />
+    <edge source="AMP" target="BBT" />
+    <edge source="AMP" target="AXP" />
+    <edge source="AMP" target="TEL" />
+    <edge source="AMP" target="MTB" />
+    <edge source="AMP" target="USB" />
+    <edge source="AMP" target="HBAN" />
+    <edge source="AMP" target="BAC" />
+    <edge source="AMP" target="CFG" />
+    <edge source="AMP" target="BLK" />
+    <edge source="AMP" target="WFC" />
+    <edge source="AMP" target="WRK" />
+    <edge source="AMP" target="C" />
+    <edge source="AMP" target="GLW" />
+    <edge source="AMP" target="STI" />
+    <edge source="AMP" target="MS" />
+    <edge source="AMP" target="AJG" />
+    <edge source="AMP" target="JPM" />
+    <edge source="AMP" target="PFG" />
+    <edge source="AMP" target="PBCT" />
+    <edge source="AMP" target="LNC" />
+    <edge source="AMP" target="NAVI" />
+    <edge source="AMP" target="AMG" />
+    <edge source="AMP" target="L" />
+    <edge source="AMP" target="MET" />
+    <edge source="AMP" target="BEN" />
+    <edge source="AMP" target="DAL" />
+    <edge source="AMP" target="CME" />
+    <edge source="AMP" target="RF" />
+    <edge source="AMP" target="STT" />
+    <edge source="AMP" target="BRK.B" />
+    <edge source="AMP" target="LUK" />
+    <edge source="AMP" target="TMK" />
+    <edge source="EW" target="BHGE" />
+    <edge source="EW" target="BAX" />
+    <edge source="SNI" target="CBS" />
+    <edge source="SNI" target="DISCA" />
+    <edge source="SNI" target="DISCK" />
+    <edge source="COF" target="CMA" />
+    <edge source="COF" target="EMN" />
+    <edge source="COF" target="SYF" />
+    <edge source="COF" target="UNM" />
+    <edge source="COF" target="KEY" />
+    <edge source="COF" target="PWR" />
+    <edge source="COF" target="PNC" />
+    <edge source="COF" target="PRU" />
+    <edge source="COF" target="SCHW" />
+    <edge source="COF" target="DFS" />
+    <edge source="COF" target="FITB" />
+    <edge source="COF" target="NTRS" />
+    <edge source="COF" target="RJF" />
+    <edge source="COF" target="ZION" />
+    <edge source="COF" target="BK" />
+    <edge source="COF" target="GS" />
+    <edge source="COF" target="BBT" />
+    <edge source="COF" target="AXP" />
+    <edge source="COF" target="MTB" />
+    <edge source="COF" target="USB" />
+    <edge source="COF" target="HBAN" />
+    <edge source="COF" target="BAC" />
+    <edge source="COF" target="ETFC" />
+    <edge source="COF" target="CFG" />
+    <edge source="COF" target="BLK" />
+    <edge source="COF" target="WFC" />
+    <edge source="COF" target="C" />
+    <edge source="COF" target="STI" />
+    <edge source="COF" target="MS" />
+    <edge source="COF" target="JPM" />
+    <edge source="COF" target="PFG" />
+    <edge source="COF" target="PBCT" />
+    <edge source="COF" target="LNC" />
+    <edge source="COF" target="NAVI" />
+    <edge source="COF" target="L" />
+    <edge source="COF" target="MET" />
+    <edge source="COF" target="BEN" />
+    <edge source="COF" target="DAL" />
+    <edge source="COF" target="RF" />
+    <edge source="COF" target="STT" />
+    <edge source="COF" target="BRK.B" />
+    <edge source="COF" target="LUK" />
+    <edge source="COF" target="TMK" />
+    <edge source="LB" target="GPS" />
+    <edge source="LB" target="LKQ" />
+    <edge source="LB" target="KSS" />
+    <edge source="CMA" target="EMN" />
+    <edge source="CMA" target="ROK" />
+    <edge source="CMA" target="UNM" />
+    <edge source="CMA" target="KEY" />
+    <edge source="CMA" target="PWR" />
+    <edge source="CMA" target="PNC" />
+    <edge source="CMA" target="PRU" />
+    <edge source="CMA" target="SCHW" />
+    <edge source="CMA" target="DFS" />
+    <edge source="CMA" target="FITB" />
+    <edge source="CMA" target="NTRS" />
+    <edge source="CMA" target="RJF" />
+    <edge source="CMA" target="ZION" />
+    <edge source="CMA" target="BK" />
+    <edge source="CMA" target="IVZ" />
+    <edge source="CMA" target="GS" />
+    <edge source="CMA" target="BBT" />
+    <edge source="CMA" target="AXP" />
+    <edge source="CMA" target="TEL" />
+    <edge source="CMA" target="MTB" />
+    <edge source="CMA" target="USB" />
+    <edge source="CMA" target="HBAN" />
+    <edge source="CMA" target="BAC" />
+    <edge source="CMA" target="ETFC" />
+    <edge source="CMA" target="CFG" />
+    <edge source="CMA" target="BLK" />
+    <edge source="CMA" target="FLR" />
+    <edge source="CMA" target="WFC" />
+    <edge source="CMA" target="C" />
+    <edge source="CMA" target="UNP" />
+    <edge source="CMA" target="STI" />
+    <edge source="CMA" target="MS" />
+    <edge source="CMA" target="JPM" />
+    <edge source="CMA" target="PFG" />
+    <edge source="CMA" target="PBCT" />
+    <edge source="CMA" target="LNC" />
+    <edge source="CMA" target="NAVI" />
+    <edge source="CMA" target="L" />
+    <edge source="CMA" target="MET" />
+    <edge source="CMA" target="BEN" />
+    <edge source="CMA" target="CME" />
+    <edge source="CMA" target="RF" />
+    <edge source="CMA" target="STT" />
+    <edge source="CMA" target="BRK.B" />
+    <edge source="CMA" target="LUK" />
+    <edge source="CMA" target="TMK" />
+    <edge source="CHD" target="KMB" />
+    <edge source="CHD" target="CLX" />
+    <edge source="CHD" target="CL" />
+    <edge source="GRMN" target="BHGE" />
+    <edge source="EMN" target="ROK" />
+    <edge source="EMN" target="UNM" />
+    <edge source="EMN" target="KEY" />
+    <edge source="EMN" target="PWR" />
+    <edge source="EMN" target="PNC" />
+    <edge source="EMN" target="PRU" />
+    <edge source="EMN" target="SCHW" />
+    <edge source="EMN" target="FITB" />
+    <edge source="EMN" target="AME" />
+    <edge source="EMN" target="NTRS" />
+    <edge source="EMN" target="DD" />
+    <edge source="EMN" target="RHI" />
+    <edge source="EMN" target="PH" />
+    <edge source="EMN" target="RJF" />
+    <edge source="EMN" target="ZION" />
+    <edge source="EMN" target="BK" />
+    <edge source="EMN" target="GS" />
+    <edge source="EMN" target="EMR" />
+    <edge source="EMN" target="PCAR" />
+    <edge source="EMN" target="CMI" />
+    <edge source="EMN" target="IP" />
+    <edge source="EMN" target="BBT" />
+    <edge source="EMN" target="PX" />
+    <edge source="EMN" target="TEL" />
+    <edge source="EMN" target="MTB" />
+    <edge source="EMN" target="URI" />
+    <edge source="EMN" target="USB" />
+    <edge source="EMN" target="HBAN" />
+    <edge source="EMN" target="BAC" />
+    <edge source="EMN" target="CFG" />
+    <edge source="EMN" target="BLK" />
+    <edge source="EMN" target="FLR" />
+    <edge source="EMN" target="WRK" />
+    <edge source="EMN" target="APD" />
+    <edge source="EMN" target="UNP" />
+    <edge source="EMN" target="STI" />
+    <edge source="EMN" target="MS" />
+    <edge source="EMN" target="JPM" />
+    <edge source="EMN" target="PFG" />
+    <edge source="EMN" target="MOS" />
+    <edge source="EMN" target="DOW" />
+    <edge source="EMN" target="PBCT" />
+    <edge source="EMN" target="LNC" />
+    <edge source="EMN" target="NAVI" />
+    <edge source="EMN" target="ETN" />
+    <edge source="EMN" target="JBHT" />
+    <edge source="EMN" target="L" />
+    <edge source="EMN" target="MET" />
+    <edge source="EMN" target="DOV" />
+    <edge source="EMN" target="STT" />
+    <edge source="EMN" target="BRK.B" />
+    <edge source="EMN" target="LUK" />
+    <edge source="EMN" target="TMK" />
+    <edge source="EMN" target="LYB" />
+    <edge source="CBS" target="FOX" />
+    <edge source="CBS" target="FOXA" />
+    <edge source="CBS" target="DIS" />
+    <edge source="BHGE" target="ROK" />
+    <edge source="BHGE" target="SYF" />
+    <edge source="BHGE" target="MO" />
+    <edge source="BHGE" target="XEL" />
+    <edge source="BHGE" target="HSIC" />
+    <edge source="BHGE" target="YUM" />
+    <edge source="BHGE" target="PG" />
+    <edge source="BHGE" target="WM" />
+    <edge source="BHGE" target="FDX" />
+    <edge source="BHGE" target="ABC" />
+    <edge source="BHGE" target="PLD" />
+    <edge source="BHGE" target="RIG" />
+    <edge source="BHGE" target="TSO" />
+    <edge source="BHGE" target="SCHW" />
+    <edge source="BHGE" target="ESS" />
+    <edge source="BHGE" target="AME" />
+    <edge source="BHGE" target="AET" />
+    <edge source="BHGE" target="MAA" />
+    <edge source="BHGE" target="SPGI" />
+    <edge source="BHGE" target="ALGN" />
+    <edge source="BHGE" target="LLL" />
+    <edge source="BHGE" target="WU" />
+    <edge source="BHGE" target="HAS" />
+    <edge source="BHGE" target="EXPD" />
+    <edge source="BHGE" target="MCHP" />
+    <edge source="BHGE" target="LUV" />
+    <edge source="BHGE" target="GPC" />
+    <edge source="BHGE" target="EA" />
+    <edge source="BHGE" target="RSG" />
+    <edge source="BHGE" target="VLO" />
+    <edge source="BHGE" target="ETR" />
+    <edge source="BHGE" target="CTAS" />
+    <edge source="BHGE" target="STX" />
+    <edge source="BHGE" target="AVY" />
+    <edge source="BHGE" target="WAT" />
+    <edge source="BHGE" target="ANTM" />
+    <edge source="BHGE" target="NUE" />
+    <edge source="BHGE" target="SWK" />
+    <edge source="BHGE" target="CTSH" />
+    <edge source="BHGE" target="NFLX" />
+    <edge source="BHGE" target="TSS" />
+    <edge source="BHGE" target="AIZ" />
+    <edge source="BHGE" target="PSX" />
+    <edge source="BHGE" target="ANSS" />
+    <edge source="BHGE" target="GS" />
+    <edge source="BHGE" target="SHW" />
+    <edge source="BHGE" target="DVA" />
+    <edge source="BHGE" target="HRS" />
+    <edge source="BHGE" target="D" />
+    <edge source="BHGE" target="GT" />
+    <edge source="BHGE" target="RTN" />
+    <edge source="BHGE" target="ECL" />
+    <edge source="BHGE" target="UNH" />
+    <edge source="BHGE" target="HOLX" />
+    <edge source="BHGE" target="HES" />
+    <edge source="BHGE" target="XL" />
+    <edge source="BHGE" target="ES" />
+    <edge source="BHGE" target="PCLN" />
+    <edge source="BHGE" target="COO" />
+    <edge source="BHGE" target="ISRG" />
+    <edge source="BHGE" target="REG" />
+    <edge source="BHGE" target="PEP" />
+    <edge source="BHGE" target="RRC" />
+    <edge source="BHGE" target="DUK" />
+    <edge source="BHGE" target="JEC" />
+    <edge source="BHGE" target="UHS" />
+    <edge source="BHGE" target="MON" />
+    <edge source="BHGE" target="MTB" />
+    <edge source="BHGE" target="PNR" />
+    <edge source="BHGE" target="COH" />
+    <edge source="BHGE" target="MA" />
+    <edge source="BHGE" target="TXN" />
+    <edge source="BHGE" target="AMAT" />
+    <edge source="BHGE" target="KIM" />
+    <edge source="BHGE" target="RHT" />
+    <edge source="BHGE" target="CB" />
+    <edge source="BHGE" target="ED" />
+    <edge source="BHGE" target="TMO" />
+    <edge source="BHGE" target="EVHC" />
+    <edge source="BHGE" target="LEG" />
+    <edge source="BHGE" target="EXR" />
+    <edge source="BHGE" target="ADI" />
+    <edge source="BHGE" target="HCA" />
+    <edge source="BHGE" target="MCD" />
+    <edge source="BHGE" target="APD" />
+    <edge source="BHGE" target="O" />
+    <edge source="BHGE" target="BAX" />
+    <edge source="BHGE" target="CERN" />
+    <edge source="BHGE" target="AEE" />
+    <edge source="BHGE" target="ACN" />
+    <edge source="BHGE" target="UNP" />
+    <edge source="BHGE" target="VAR" />
+    <edge source="BHGE" target="ALK" />
+    <edge source="BHGE" target="SWKS" />
+    <edge source="BHGE" target="TRV" />
+    <edge source="BHGE" target="BDX" />
+    <edge source="BHGE" target="ADP" />
+    <edge source="BHGE" target="XRX" />
+    <edge source="BHGE" target="PNW" />
+    <edge source="BHGE" target="INFO" />
+    <edge source="BHGE" target="ARE" />
+    <edge source="BHGE" target="PSA" />
+    <edge source="BHGE" target="WEC" />
+    <edge source="BHGE" target="FIS" />
+    <edge source="BHGE" target="KMI" />
+    <edge source="BHGE" target="KLAC" />
+    <edge source="BHGE" target="MSI" />
+    <edge source="BHGE" target="MDT" />
+    <edge source="BHGE" target="SYK" />
+    <edge source="BHGE" target="MUR" />
+    <edge source="BHGE" target="BSX" />
+    <edge source="BHGE" target="CI" />
+    <edge source="BHGE" target="NI" />
+    <edge source="BHGE" target="LRCX" />
+    <edge source="BHGE" target="LNT" />
+    <edge source="BHGE" target="IDXX" />
+    <edge source="BHGE" target="JBHT" />
+    <edge source="BHGE" target="DLPH" />
+    <edge source="BHGE" target="MPC" />
+    <edge source="BHGE" target="INCY" />
+    <edge source="BHGE" target="CLX" />
+    <edge source="BHGE" target="CHK" />
+    <edge source="BHGE" target="MHK" />
+    <edge source="BHGE" target="DRI" />
+    <edge source="BHGE" target="QRVO" />
+    <edge source="BHGE" target="ORLY" />
+    <edge source="BHGE" target="DAL" />
+    <edge source="BHGE" target="AFL" />
+    <edge source="BHGE" target="CME" />
+    <edge source="BHGE" target="PPL" />
+    <edge source="BHGE" target="SBUX" />
+    <edge source="BHGE" target="INTU" />
+    <edge source="BHGE" target="MCK" />
+    <edge source="BHGE" target="DOV" />
+    <edge source="BHGE" target="AZO" />
+    <edge source="BHGE" target="CNC" />
+    <edge source="BHGE" target="BRK.B" />
+    <edge source="BHGE" target="VRTX" />
+    <edge source="BHGE" target="UTX" />
+    <edge source="BHGE" target="CSRA" />
+    <edge source="BHGE" target="LUK" />
+    <edge source="BHGE" target="AEP" />
+    <edge source="BHGE" target="VNO" />
+    <edge source="BHGE" target="NDAQ" />
+    <edge source="BHGE" target="CA" />
+    <edge source="BHGE" target="LYB" />
+    <edge source="EOG" target="PXD" />
+    <edge source="EOG" target="OXY" />
+    <edge source="EOG" target="RIG" />
+    <edge source="EOG" target="CVX" />
+    <edge source="EOG" target="HP" />
+    <edge source="EOG" target="NFX" />
+    <edge source="EOG" target="CXO" />
+    <edge source="EOG" target="SLB" />
+    <edge source="EOG" target="HES" />
+    <edge source="EOG" target="RRC" />
+    <edge source="EOG" target="MRO" />
+    <edge source="EOG" target="HAL" />
+    <edge source="EOG" target="FTI" />
+    <edge source="EOG" target="APA" />
+    <edge source="EOG" target="KMI" />
+    <edge source="EOG" target="COP" />
+    <edge source="EOG" target="MUR" />
+    <edge source="EOG" target="DVN" />
+    <edge source="EOG" target="OKE" />
+    <edge source="EOG" target="APC" />
+    <edge source="EOG" target="NOV" />
+    <edge source="EOG" target="CHK" />
+    <edge source="EOG" target="XEC" />
+    <edge source="EOG" target="DOV" />
+    <edge source="EOG" target="XOM" />
+    <edge source="HCN" target="AIV" />
+    <edge source="HCN" target="VTR" />
+    <edge source="HCN" target="ED" />
+    <edge source="HCN" target="O" />
+    <edge source="HCN" target="HCP" />
+    <edge source="MTD" target="V" />
+    <edge source="ROK" target="XYL" />
+    <edge source="ROK" target="UNM" />
+    <edge source="ROK" target="PWR" />
+    <edge source="ROK" target="FDX" />
+    <edge source="ROK" target="PRU" />
+    <edge source="ROK" target="AME" />
+    <edge source="ROK" target="PH" />
+    <edge source="ROK" target="RJF" />
+    <edge source="ROK" target="NSC" />
+    <edge source="ROK" target="EMR" />
+    <edge source="ROK" target="PCAR" />
+    <edge source="ROK" target="CMI" />
+    <edge source="ROK" target="PX" />
+    <edge source="ROK" target="HON" />
+    <edge source="ROK" target="TEL" />
+    <edge source="ROK" target="MTB" />
+    <edge source="ROK" target="PNR" />
+    <edge source="ROK" target="USB" />
+    <edge source="ROK" target="HBAN" />
+    <edge source="ROK" target="IR" />
+    <edge source="ROK" target="BA" />
+    <edge source="ROK" target="CFG" />
+    <edge source="ROK" target="BLK" />
+    <edge source="ROK" target="FLR" />
+    <edge source="ROK" target="WFC" />
+    <edge source="ROK" target="APD" />
+    <edge source="ROK" target="FLS" />
+    <edge source="ROK" target="UNP" />
+    <edge source="ROK" target="GLW" />
+    <edge source="ROK" target="STI" />
+    <edge source="ROK" target="CAT" />
+    <edge source="ROK" target="JPM" />
+    <edge source="ROK" target="PFG" />
+    <edge source="ROK" target="MLM" />
+    <edge source="ROK" target="LNC" />
+    <edge source="ROK" target="ETN" />
+    <edge source="ROK" target="L" />
+    <edge source="ROK" target="MET" />
+    <edge source="ROK" target="DOV" />
+    <edge source="ROK" target="BRK.B" />
+    <edge source="ROK" target="LUK" />
+    <edge source="ROK" target="TMK" />
+    <edge source="PVH" target="VFC" />
+    <edge source="XYL" target="FDX" />
+    <edge source="XYL" target="EXPD" />
+    <edge source="JWN" target="GPS" />
+    <edge source="JWN" target="DG" />
+    <edge source="JWN" target="ROST" />
+    <edge source="JWN" target="M" />
+    <edge source="JWN" target="TJX" />
+    <edge source="JWN" target="KSS" />
+    <edge source="SYF" target="DFS" />
+    <edge source="SYF" target="AXP" />
+    <edge source="SYF" target="HST" />
+    <edge source="GPS" target="ROST" />
+    <edge source="GPS" target="BBBY" />
+    <edge source="GPS" target="M" />
+    <edge source="GPS" target="TJX" />
+    <edge source="GPS" target="KSS" />
+    <edge source="GPS" target="FL" />
+    <edge source="GPS" target="DLTR" />
+    <edge source="UNM" target="KEY" />
+    <edge source="UNM" target="PWR" />
+    <edge source="UNM" target="PNC" />
+    <edge source="UNM" target="PRU" />
+    <edge source="UNM" target="SCHW" />
+    <edge source="UNM" target="DFS" />
+    <edge source="UNM" target="FITB" />
+    <edge source="UNM" target="AME" />
+    <edge source="UNM" target="NTRS" />
+    <edge source="UNM" target="PH" />
+    <edge source="UNM" target="RJF" />
+    <edge source="UNM" target="ZION" />
+    <edge source="UNM" target="AIZ" />
+    <edge source="UNM" target="BK" />
+    <edge source="UNM" target="IVZ" />
+    <edge source="UNM" target="GS" />
+    <edge source="UNM" target="EMR" />
+    <edge source="UNM" target="PCAR" />
+    <edge source="UNM" target="CMI" />
+    <edge source="UNM" target="BBT" />
+    <edge source="UNM" target="AXP" />
+    <edge source="UNM" target="HON" />
+    <edge source="UNM" target="TEL" />
+    <edge source="UNM" target="MTB" />
+    <edge source="UNM" target="USB" />
+    <edge source="UNM" target="HBAN" />
+    <edge source="UNM" target="BAC" />
+    <edge source="UNM" target="ETFC" />
+    <edge source="UNM" target="CFG" />
+    <edge source="UNM" target="BLK" />
+    <edge source="UNM" target="FLR" />
+    <edge source="UNM" target="WFC" />
+    <edge source="UNM" target="WRK" />
+    <edge source="UNM" target="C" />
+    <edge source="UNM" target="UNP" />
+    <edge source="UNM" target="STI" />
+    <edge source="UNM" target="MS" />
+    <edge source="UNM" target="HIG" />
+    <edge source="UNM" target="AJG" />
+    <edge source="UNM" target="JPM" />
+    <edge source="UNM" target="PFG" />
+    <edge source="UNM" target="PBCT" />
+    <edge source="UNM" target="LNC" />
+    <edge source="UNM" target="NAVI" />
+    <edge source="UNM" target="ETN" />
+    <edge source="UNM" target="JBHT" />
+    <edge source="UNM" target="L" />
+    <edge source="UNM" target="MET" />
+    <edge source="UNM" target="BEN" />
+    <edge source="UNM" target="AFL" />
+    <edge source="UNM" target="CME" />
+    <edge source="UNM" target="RF" />
+    <edge source="UNM" target="DOV" />
+    <edge source="UNM" target="STT" />
+    <edge source="UNM" target="BRK.B" />
+    <edge source="UNM" target="CINF" />
+    <edge source="UNM" target="LUK" />
+    <edge source="UNM" target="TMK" />
+    <edge source="UNM" target="NDAQ" />
+    <edge source="MO" target="PM" />
+    <edge source="KEY" target="PWR" />
+    <edge source="KEY" target="PNC" />
+    <edge source="KEY" target="PRU" />
+    <edge source="KEY" target="SCHW" />
+    <edge source="KEY" target="DFS" />
+    <edge source="KEY" target="FITB" />
+    <edge source="KEY" target="NTRS" />
+    <edge source="KEY" target="RJF" />
+    <edge source="KEY" target="ZION" />
+    <edge source="KEY" target="AIZ" />
+    <edge source="KEY" target="BK" />
+    <edge source="KEY" target="IVZ" />
+    <edge source="KEY" target="GS" />
+    <edge source="KEY" target="BBT" />
+    <edge source="KEY" target="AXP" />
+    <edge source="KEY" target="MTB" />
+    <edge source="KEY" target="USB" />
+    <edge source="KEY" target="HBAN" />
+    <edge source="KEY" target="BAC" />
+    <edge source="KEY" target="ETFC" />
+    <edge source="KEY" target="CFG" />
+    <edge source="KEY" target="BLK" />
+    <edge source="KEY" target="WFC" />
+    <edge source="KEY" target="C" />
+    <edge source="KEY" target="STI" />
+    <edge source="KEY" target="MS" />
+    <edge source="KEY" target="JPM" />
+    <edge source="KEY" target="PFG" />
+    <edge source="KEY" target="PBCT" />
+    <edge source="KEY" target="LNC" />
+    <edge source="KEY" target="NAVI" />
+    <edge source="KEY" target="L" />
+    <edge source="KEY" target="MET" />
+    <edge source="KEY" target="BEN" />
+    <edge source="KEY" target="CME" />
+    <edge source="KEY" target="RF" />
+    <edge source="KEY" target="STT" />
+    <edge source="KEY" target="BRK.B" />
+    <edge source="KEY" target="LUK" />
+    <edge source="KEY" target="TMK" />
+    <edge source="XEL" target="PEG" />
+    <edge source="XEL" target="DTE" />
+    <edge source="XEL" target="NEE" />
+    <edge source="XEL" target="EXC" />
+    <edge source="XEL" target="ETR" />
+    <edge source="XEL" target="SO" />
+    <edge source="XEL" target="CNP" />
+    <edge source="XEL" target="D" />
+    <edge source="XEL" target="FE" />
+    <edge source="XEL" target="ES" />
+    <edge source="XEL" target="SRE" />
+    <edge source="XEL" target="PEP" />
+    <edge source="XEL" target="SCG" />
+    <edge source="XEL" target="DUK" />
+    <edge source="XEL" target="EIX" />
+    <edge source="XEL" target="ED" />
+    <edge source="XEL" target="AEE" />
+    <edge source="XEL" target="AWK" />
+    <edge source="XEL" target="PNW" />
+    <edge source="XEL" target="WEC" />
+    <edge source="XEL" target="PCG" />
+    <edge source="XEL" target="NI" />
+    <edge source="XEL" target="LNT" />
+    <edge source="XEL" target="PPL" />
+    <edge source="XEL" target="CMS" />
+    <edge source="XEL" target="AEP" />
+    <edge source="PEG" target="DTE" />
+    <edge source="PEG" target="NEE" />
+    <edge source="PEG" target="EXC" />
+    <edge source="PEG" target="ETR" />
+    <edge source="PEG" target="SO" />
+    <edge source="PEG" target="AES" />
+    <edge source="PEG" target="CNP" />
+    <edge source="PEG" target="D" />
+    <edge source="PEG" target="FE" />
+    <edge source="PEG" target="ES" />
+    <edge source="PEG" target="SRE" />
+    <edge source="PEG" target="SCG" />
+    <edge source="PEG" target="DUK" />
+    <edge source="PEG" target="EIX" />
+    <edge source="PEG" target="ED" />
+    <edge source="PEG" target="AEE" />
+    <edge source="PEG" target="AWK" />
+    <edge source="PEG" target="PNW" />
+    <edge source="PEG" target="WEC" />
+    <edge source="PEG" target="PCG" />
+    <edge source="PEG" target="NI" />
+    <edge source="PEG" target="LNT" />
+    <edge source="PEG" target="PPL" />
+    <edge source="PEG" target="CMS" />
+    <edge source="PEG" target="AEP" />
+    <edge source="DTE" target="NEE" />
+    <edge source="DTE" target="EXC" />
+    <edge source="DTE" target="ETR" />
+    <edge source="DTE" target="SO" />
+    <edge source="DTE" target="CNP" />
+    <edge source="DTE" target="D" />
+    <edge source="DTE" target="FE" />
+    <edge source="DTE" target="ES" />
+    <edge source="DTE" target="SRE" />
+    <edge source="DTE" target="SCG" />
+    <edge source="DTE" target="DUK" />
+    <edge source="DTE" target="EIX" />
+    <edge source="DTE" target="ED" />
+    <edge source="DTE" target="AEE" />
+    <edge source="DTE" target="AWK" />
+    <edge source="DTE" target="PNW" />
+    <edge source="DTE" target="WEC" />
+    <edge source="DTE" target="PCG" />
+    <edge source="DTE" target="NI" />
+    <edge source="DTE" target="LNT" />
+    <edge source="DTE" target="PPL" />
+    <edge source="DTE" target="CMS" />
+    <edge source="DTE" target="AEP" />
+    <edge source="PWR" target="PNC" />
+    <edge source="PWR" target="FDX" />
+    <edge source="PWR" target="PRU" />
+    <edge source="PWR" target="SCHW" />
+    <edge source="PWR" target="DFS" />
+    <edge source="PWR" target="AME" />
+    <edge source="PWR" target="PH" />
+    <edge source="PWR" target="RJF" />
+    <edge source="PWR" target="ZION" />
+    <edge source="PWR" target="CMI" />
+    <edge source="PWR" target="TEL" />
+    <edge source="PWR" target="MTB" />
+    <edge source="PWR" target="PNR" />
+    <edge source="PWR" target="URI" />
+    <edge source="PWR" target="USB" />
+    <edge source="PWR" target="HBAN" />
+    <edge source="PWR" target="BAC" />
+    <edge source="PWR" target="IR" />
+    <edge source="PWR" target="CFG" />
+    <edge source="PWR" target="FLR" />
+    <edge source="PWR" target="WFC" />
+    <edge source="PWR" target="LEG" />
+    <edge source="PWR" target="GLW" />
+    <edge source="PWR" target="STI" />
+    <edge source="PWR" target="MS" />
+    <edge source="PWR" target="JPM" />
+    <edge source="PWR" target="PFG" />
+    <edge source="PWR" target="MLM" />
+    <edge source="PWR" target="PBCT" />
+    <edge source="PWR" target="LNC" />
+    <edge source="PWR" target="ETN" />
+    <edge source="PWR" target="L" />
+    <edge source="PWR" target="MET" />
+    <edge source="PWR" target="FBHS" />
+    <edge source="PWR" target="DOV" />
+    <edge source="PWR" target="TMK" />
+    <edge source="PWR" target="LYB" />
+    <edge source="HBI" target="VFC" />
+    <edge source="DG" target="WMT" />
+    <edge source="DG" target="ROST" />
+    <edge source="DG" target="BBBY" />
+    <edge source="DG" target="KSS" />
+    <edge source="DG" target="DLTR" />
+    <edge source="DG" target="TGT" />
+    <edge source="HSIC" target="TEL" />
+    <edge source="YUM" target="MA" />
+    <edge source="CMCSA" target="CHTR" />
+    <edge source="PG" target="KMB" />
+    <edge source="PG" target="CLX" />
+    <edge source="PNC" target="PRU" />
+    <edge source="PNC" target="SCHW" />
+    <edge source="PNC" target="DFS" />
+    <edge source="PNC" target="FITB" />
+    <edge source="PNC" target="NTRS" />
+    <edge source="PNC" target="RJF" />
+    <edge source="PNC" target="ZION" />
+    <edge source="PNC" target="BK" />
+    <edge source="PNC" target="IVZ" />
+    <edge source="PNC" target="GS" />
+    <edge source="PNC" target="BBT" />
+    <edge source="PNC" target="AXP" />
+    <edge source="PNC" target="TEL" />
+    <edge source="PNC" target="MTB" />
+    <edge source="PNC" target="USB" />
+    <edge source="PNC" target="HBAN" />
+    <edge source="PNC" target="BAC" />
+    <edge source="PNC" target="ETFC" />
+    <edge source="PNC" target="CFG" />
+    <edge source="PNC" target="BLK" />
+    <edge source="PNC" target="WFC" />
+    <edge source="PNC" target="C" />
+    <edge source="PNC" target="STI" />
+    <edge source="PNC" target="MS" />
+    <edge source="PNC" target="JPM" />
+    <edge source="PNC" target="PFG" />
+    <edge source="PNC" target="PBCT" />
+    <edge source="PNC" target="LNC" />
+    <edge source="PNC" target="NAVI" />
+    <edge source="PNC" target="L" />
+    <edge source="PNC" target="MET" />
+    <edge source="PNC" target="BEN" />
+    <edge source="PNC" target="DAL" />
+    <edge source="PNC" target="CME" />
+    <edge source="PNC" target="RF" />
+    <edge source="PNC" target="STT" />
+    <edge source="PNC" target="BRK.B" />
+    <edge source="PNC" target="CINF" />
+    <edge source="PNC" target="LUK" />
+    <edge source="PNC" target="TMK" />
+    <edge source="PNC" target="NDAQ" />
+    <edge source="WM" target="EXPD" />
+    <edge source="WM" target="RSG" />
+    <edge source="WM" target="CHRW" />
+    <edge source="AAP" target="GPC" />
+    <edge source="AAP" target="TSCO" />
+    <edge source="AAP" target="ORLY" />
+    <edge source="AAP" target="AZO" />
+    <edge source="FDX" target="EXPD" />
+    <edge source="FDX" target="UPS" />
+    <edge source="FDX" target="NSC" />
+    <edge source="FDX" target="BLK" />
+    <edge source="FDX" target="ACN" />
+    <edge source="FDX" target="UNP" />
+    <edge source="FDX" target="GLW" />
+    <edge source="FDX" target="MSFT" />
+    <edge source="FDX" target="JBHT" />
+    <edge source="ICE" target="PRU" />
+    <edge source="ICE" target="CBOE" />
+    <edge source="ICE" target="CME" />
+    <edge source="ICE" target="NDAQ" />
+    <edge source="EXPE" target="NFLX" />
+    <edge source="EXPE" target="MA" />
+    <edge source="EXPE" target="TXN" />
+    <edge source="EXPE" target="ADBE" />
+    <edge source="EXPE" target="AMAT" />
+    <edge source="EXPE" target="GOOGL" />
+    <edge source="EXPE" target="GOOG" />
+    <edge source="EXPE" target="MSFT" />
+    <edge source="EXPE" target="KLAC" />
+    <edge source="EXPE" target="LRCX" />
+    <edge source="EXPE" target="CRM" />
+    <edge source="EXPE" target="QRVO" />
+    <edge source="EXPE" target="FB" />
+    <edge source="PRU" target="SCHW" />
+    <edge source="PRU" target="DFS" />
+    <edge source="PRU" target="FITB" />
+    <edge source="PRU" target="AME" />
+    <edge source="PRU" target="NTRS" />
+    <edge source="PRU" target="TROW" />
+    <edge source="PRU" target="PH" />
+    <edge source="PRU" target="RJF" />
+    <edge source="PRU" target="ZION" />
+    <edge source="PRU" target="AIZ" />
+    <edge source="PRU" target="BK" />
+    <edge source="PRU" target="IVZ" />
+    <edge source="PRU" target="GS" />
+    <edge source="PRU" target="PCAR" />
+    <edge source="PRU" target="CMI" />
+    <edge source="PRU" target="BBT" />
+    <edge source="PRU" target="AXP" />
+    <edge source="PRU" target="HON" />
+    <edge source="PRU" target="TEL" />
+    <edge source="PRU" target="MTB" />
+    <edge source="PRU" target="USB" />
+    <edge source="PRU" target="HBAN" />
+    <edge source="PRU" target="BAC" />
+    <edge source="PRU" target="ETFC" />
+    <edge source="PRU" target="CFG" />
+    <edge source="PRU" target="BLK" />
+    <edge source="PRU" target="FLR" />
+    <edge source="PRU" target="WFC" />
+    <edge source="PRU" target="C" />
+    <edge source="PRU" target="UNP" />
+    <edge source="PRU" target="STI" />
+    <edge source="PRU" target="MS" />
+    <edge source="PRU" target="HIG" />
+    <edge source="PRU" target="AJG" />
+    <edge source="PRU" target="JPM" />
+    <edge source="PRU" target="PFG" />
+    <edge source="PRU" target="PBCT" />
+    <edge source="PRU" target="LNC" />
+    <edge source="PRU" target="NAVI" />
+    <edge source="PRU" target="ETN" />
+    <edge source="PRU" target="JBHT" />
+    <edge source="PRU" target="L" />
+    <edge source="PRU" target="MET" />
+    <edge source="PRU" target="BEN" />
+    <edge source="PRU" target="DAL" />
+    <edge source="PRU" target="CME" />
+    <edge source="PRU" target="RF" />
+    <edge source="PRU" target="DOV" />
+    <edge source="PRU" target="STT" />
+    <edge source="PRU" target="BRK.B" />
+    <edge source="PRU" target="CINF" />
+    <edge source="PRU" target="LUK" />
+    <edge source="PRU" target="TMK" />
+    <edge source="FAST" target="GWW" />
+    <edge source="AON" target="MMC" />
+    <edge source="AON" target="CB" />
+    <edge source="AON" target="AJG" />
+    <edge source="AON" target="TMK" />
+    <edge source="ADSK" target="TXN" />
+    <edge source="ADSK" target="ADBE" />
+    <edge source="ADSK" target="AMAT" />
+    <edge source="ADSK" target="DE" />
+    <edge source="ADSK" target="LRCX" />
+    <edge source="PXD" target="OXY" />
+    <edge source="PXD" target="CVX" />
+    <edge source="PXD" target="NFX" />
+    <edge source="PXD" target="CXO" />
+    <edge source="PXD" target="SLB" />
+    <edge source="PXD" target="WMB" />
+    <edge source="PXD" target="HES" />
+    <edge source="PXD" target="MRO" />
+    <edge source="PXD" target="HAL" />
+    <edge source="PXD" target="FTI" />
+    <edge source="PXD" target="APA" />
+    <edge source="PXD" target="KMI" />
+    <edge source="PXD" target="COP" />
+    <edge source="PXD" target="MUR" />
+    <edge source="PXD" target="DVN" />
+    <edge source="PXD" target="OKE" />
+    <edge source="PXD" target="APC" />
+    <edge source="PXD" target="NOV" />
+    <edge source="PXD" target="CHK" />
+    <edge source="PXD" target="XEC" />
+    <edge source="OXY" target="RIG" />
+    <edge source="OXY" target="CVX" />
+    <edge source="OXY" target="NFX" />
+    <edge source="OXY" target="CXO" />
+    <edge source="OXY" target="SLB" />
+    <edge source="OXY" target="WMB" />
+    <edge source="OXY" target="HES" />
+    <edge source="OXY" target="MRO" />
+    <edge source="OXY" target="HAL" />
+    <edge source="OXY" target="APA" />
+    <edge source="OXY" target="KMI" />
+    <edge source="OXY" target="COP" />
+    <edge source="OXY" target="MUR" />
+    <edge source="OXY" target="DVN" />
+    <edge source="OXY" target="OKE" />
+    <edge source="OXY" target="APC" />
+    <edge source="OXY" target="CHK" />
+    <edge source="OXY" target="XEC" />
+    <edge source="OXY" target="XOM" />
+    <edge source="SYMC" target="ADBE" />
+    <edge source="SYMC" target="MSFT" />
+    <edge source="ABC" target="CAH" />
+    <edge source="ABC" target="MCK" />
+    <edge source="AIV" target="ESS" />
+    <edge source="AIV" target="EQR" />
+    <edge source="AIV" target="MAA" />
+    <edge source="AIV" target="UDR" />
+    <edge source="AIV" target="ARE" />
+    <edge source="AIV" target="AVB" />
+    <edge source="AIV" target="HCP" />
+    <edge source="PLD" target="MAC" />
+    <edge source="PLD" target="O" />
+    <edge source="PLD" target="SLG" />
+    <edge source="PLD" target="VNO" />
+    <edge source="NEE" target="ETR" />
+    <edge source="NEE" target="SO" />
+    <edge source="NEE" target="CNP" />
+    <edge source="NEE" target="D" />
+    <edge source="NEE" target="FE" />
+    <edge source="NEE" target="ES" />
+    <edge source="NEE" target="SRE" />
+    <edge source="NEE" target="DUK" />
+    <edge source="NEE" target="EIX" />
+    <edge source="NEE" target="ED" />
+    <edge source="NEE" target="AEE" />
+    <edge source="NEE" target="AWK" />
+    <edge source="NEE" target="PNW" />
+    <edge source="NEE" target="WEC" />
+    <edge source="NEE" target="PCG" />
+    <edge source="NEE" target="NI" />
+    <edge source="NEE" target="LNT" />
+    <edge source="NEE" target="PPL" />
+    <edge source="NEE" target="CMS" />
+    <edge source="NEE" target="AEP" />
+    <edge source="RIG" target="CVX" />
+    <edge source="RIG" target="HP" />
+    <edge source="RIG" target="NFX" />
+    <edge source="RIG" target="CXO" />
+    <edge source="RIG" target="PSX" />
+    <edge source="RIG" target="SLB" />
+    <edge source="RIG" target="HES" />
+    <edge source="RIG" target="MRO" />
+    <edge source="RIG" target="HAL" />
+    <edge source="RIG" target="FTI" />
+    <edge source="RIG" target="APA" />
+    <edge source="RIG" target="KMI" />
+    <edge source="RIG" target="COP" />
+    <edge source="RIG" target="MUR" />
+    <edge source="RIG" target="DVN" />
+    <edge source="RIG" target="OKE" />
+    <edge source="RIG" target="APC" />
+    <edge source="RIG" target="NOV" />
+    <edge source="RIG" target="CHK" />
+    <edge source="RIG" target="XEC" />
+    <edge source="RIG" target="DOV" />
+    <edge source="EXC" target="ETR" />
+    <edge source="EXC" target="SO" />
+    <edge source="EXC" target="AES" />
+    <edge source="EXC" target="CNP" />
+    <edge source="EXC" target="D" />
+    <edge source="EXC" target="FE" />
+    <edge source="EXC" target="ES" />
+    <edge source="EXC" target="SRE" />
+    <edge source="EXC" target="DUK" />
+    <edge source="EXC" target="ED" />
+    <edge source="EXC" target="AEE" />
+    <edge source="EXC" target="AWK" />
+    <edge source="EXC" target="PNW" />
+    <edge source="EXC" target="WEC" />
+    <edge source="EXC" target="PCG" />
+    <edge source="EXC" target="NI" />
+    <edge source="EXC" target="LNT" />
+    <edge source="EXC" target="PPL" />
+    <edge source="EXC" target="CMS" />
+    <edge source="EXC" target="AEP" />
+    <edge source="TSO" target="VLO" />
+    <edge source="TSO" target="PSX" />
+    <edge source="TSO" target="MPC" />
+    <edge source="SCHW" target="DFS" />
+    <edge source="SCHW" target="FITB" />
+    <edge source="SCHW" target="NTRS" />
+    <edge source="SCHW" target="RJF" />
+    <edge source="SCHW" target="ZION" />
+    <edge source="SCHW" target="SNA" />
+    <edge source="SCHW" target="BK" />
+    <edge source="SCHW" target="IVZ" />
+    <edge source="SCHW" target="GS" />
+    <edge source="SCHW" target="LOW" />
+    <edge source="SCHW" target="CMI" />
+    <edge source="SCHW" target="BBT" />
+    <edge source="SCHW" target="AXP" />
+    <edge source="SCHW" target="MTB" />
+    <edge source="SCHW" target="USB" />
+    <edge source="SCHW" target="HBAN" />
+    <edge source="SCHW" target="BAC" />
+    <edge source="SCHW" target="ETFC" />
+    <edge source="SCHW" target="CFG" />
+    <edge source="SCHW" target="BLK" />
+    <edge source="SCHW" target="FLR" />
+    <edge source="SCHW" target="WFC" />
+    <edge source="SCHW" target="C" />
+    <edge source="SCHW" target="STI" />
+    <edge source="SCHW" target="MS" />
+    <edge source="SCHW" target="JPM" />
+    <edge source="SCHW" target="PFG" />
+    <edge source="SCHW" target="PBCT" />
+    <edge source="SCHW" target="LNC" />
+    <edge source="SCHW" target="NAVI" />
+    <edge source="SCHW" target="L" />
+    <edge source="SCHW" target="MET" />
+    <edge source="SCHW" target="BEN" />
+    <edge source="SCHW" target="CME" />
+    <edge source="SCHW" target="RF" />
+    <edge source="SCHW" target="STT" />
+    <edge source="SCHW" target="BRK.B" />
+    <edge source="SCHW" target="LUK" />
+    <edge source="SCHW" target="TMK" />
+    <edge source="NWSA" target="NWS" />
+    <edge source="ESS" target="EQR" />
+    <edge source="ESS" target="MAA" />
+    <edge source="ESS" target="UDR" />
+    <edge source="ESS" target="AVB" />
+    <edge source="WMT" target="COST" />
+    <edge source="WMT" target="DLTR" />
+    <edge source="WMT" target="TGT" />
+    <edge source="HSY" target="MKC" />
+    <edge source="HSY" target="SJM" />
+    <edge source="HSY" target="GIS" />
+    <edge source="HSY" target="K" />
+    <edge source="DFS" target="FITB" />
+    <edge source="DFS" target="NTRS" />
+    <edge source="DFS" target="RJF" />
+    <edge source="DFS" target="ZION" />
+    <edge source="DFS" target="SNA" />
+    <edge source="DFS" target="BK" />
+    <edge source="DFS" target="GS" />
+    <edge source="DFS" target="BBT" />
+    <edge source="DFS" target="AXP" />
+    <edge source="DFS" target="MTB" />
+    <edge source="DFS" target="USB" />
+    <edge source="DFS" target="HBAN" />
+    <edge source="DFS" target="BAC" />
+    <edge source="DFS" target="ETFC" />
+    <edge source="DFS" target="CFG" />
+    <edge source="DFS" target="WFC" />
+    <edge source="DFS" target="C" />
+    <edge source="DFS" target="STI" />
+    <edge source="DFS" target="MS" />
+    <edge source="DFS" target="JPM" />
+    <edge source="DFS" target="PFG" />
+    <edge source="DFS" target="PBCT" />
+    <edge source="DFS" target="LNC" />
+    <edge source="DFS" target="NAVI" />
+    <edge source="DFS" target="MET" />
+    <edge source="DFS" target="RF" />
+    <edge source="DFS" target="BRK.B" />
+    <edge source="DFS" target="LUK" />
+    <edge source="DFS" target="TMK" />
+    <edge source="FITB" target="NTRS" />
+    <edge source="FITB" target="RJF" />
+    <edge source="FITB" target="ZION" />
+    <edge source="FITB" target="AIZ" />
+    <edge source="FITB" target="BK" />
+    <edge source="FITB" target="GS" />
+    <edge source="FITB" target="BBT" />
+    <edge source="FITB" target="AXP" />
+    <edge source="FITB" target="MTB" />
+    <edge source="FITB" target="USB" />
+    <edge source="FITB" target="HBAN" />
+    <edge source="FITB" target="BAC" />
+    <edge source="FITB" target="ETFC" />
+    <edge source="FITB" target="CFG" />
+    <edge source="FITB" target="BLK" />
+    <edge source="FITB" target="WFC" />
+    <edge source="FITB" target="C" />
+    <edge source="FITB" target="STI" />
+    <edge source="FITB" target="MS" />
+    <edge source="FITB" target="JPM" />
+    <edge source="FITB" target="PFG" />
+    <edge source="FITB" target="PBCT" />
+    <edge source="FITB" target="LNC" />
+    <edge source="FITB" target="NAVI" />
+    <edge source="FITB" target="L" />
+    <edge source="FITB" target="MET" />
+    <edge source="FITB" target="BEN" />
+    <edge source="FITB" target="CME" />
+    <edge source="FITB" target="RF" />
+    <edge source="FITB" target="STT" />
+    <edge source="FITB" target="BRK.B" />
+    <edge source="FITB" target="LUK" />
+    <edge source="FITB" target="TMK" />
+    <edge source="AME" target="PH" />
+    <edge source="AME" target="RJF" />
+    <edge source="AME" target="EMR" />
+    <edge source="AME" target="PCAR" />
+    <edge source="AME" target="CMI" />
+    <edge source="AME" target="PX" />
+    <edge source="AME" target="HON" />
+    <edge source="AME" target="TEL" />
+    <edge source="AME" target="MTB" />
+    <edge source="AME" target="PNR" />
+    <edge source="AME" target="USB" />
+    <edge source="AME" target="IR" />
+    <edge source="AME" target="BLK" />
+    <edge source="AME" target="FLR" />
+    <edge source="AME" target="APD" />
+    <edge source="AME" target="FLS" />
+    <edge source="AME" target="UNP" />
+    <edge source="AME" target="STI" />
+    <edge source="AME" target="CAT" />
+    <edge source="AME" target="PFG" />
+    <edge source="AME" target="MLM" />
+    <edge source="AME" target="LNC" />
+    <edge source="AME" target="ETN" />
+    <edge source="AME" target="L" />
+    <edge source="AME" target="MET" />
+    <edge source="AME" target="DAL" />
+    <edge source="AME" target="DOV" />
+    <edge source="AME" target="BRK.B" />
+    <edge source="AME" target="UTX" />
+    <edge source="AME" target="TMK" />
+    <edge source="CVX" target="HP" />
+    <edge source="CVX" target="NFX" />
+    <edge source="CVX" target="CXO" />
+    <edge source="CVX" target="PSX" />
+    <edge source="CVX" target="SLB" />
+    <edge source="CVX" target="WMB" />
+    <edge source="CVX" target="HES" />
+    <edge source="CVX" target="MRO" />
+    <edge source="CVX" target="HAL" />
+    <edge source="CVX" target="APA" />
+    <edge source="CVX" target="KMI" />
+    <edge source="CVX" target="COP" />
+    <edge source="CVX" target="MUR" />
+    <edge source="CVX" target="DVN" />
+    <edge source="CVX" target="OKE" />
+    <edge source="CVX" target="APC" />
+    <edge source="CVX" target="NOV" />
+    <edge source="CVX" target="MPC" />
+    <edge source="CVX" target="CHK" />
+    <edge source="CVX" target="XEC" />
+    <edge source="CVX" target="DOV" />
+    <edge source="CVX" target="XOM" />
+    <edge source="EQR" target="MAA" />
+    <edge source="EQR" target="UDR" />
+    <edge source="EQR" target="AVB" />
+    <edge source="AET" target="ANTM" />
+    <edge source="AET" target="UNH" />
+    <edge source="AET" target="CI" />
+    <edge source="MAA" target="BXP" />
+    <edge source="MAA" target="EXR" />
+    <edge source="MAA" target="UDR" />
+    <edge source="MAA" target="PSA" />
+    <edge source="MAA" target="AVB" />
+    <edge source="MAA" target="SLG" />
+    <edge source="SPGI" target="MCO" />
+    <edge source="SPGI" target="V" />
+    <edge source="DISCA" target="DISCK" />
+    <edge source="RL" target="SNA" />
+    <edge source="PHM" target="DHI" />
+    <edge source="NTRS" target="RJF" />
+    <edge source="NTRS" target="ZION" />
+    <edge source="NTRS" target="BK" />
+    <edge source="NTRS" target="IVZ" />
+    <edge source="NTRS" target="GS" />
+    <edge source="NTRS" target="BBT" />
+    <edge source="NTRS" target="AXP" />
+    <edge source="NTRS" target="MTB" />
+    <edge source="NTRS" target="USB" />
+    <edge source="NTRS" target="HBAN" />
+    <edge source="NTRS" target="BAC" />
+    <edge source="NTRS" target="ETFC" />
+    <edge source="NTRS" target="CFG" />
+    <edge source="NTRS" target="BLK" />
+    <edge source="NTRS" target="WFC" />
+    <edge source="NTRS" target="C" />
+    <edge source="NTRS" target="STI" />
+    <edge source="NTRS" target="MS" />
+    <edge source="NTRS" target="JPM" />
+    <edge source="NTRS" target="PFG" />
+    <edge source="NTRS" target="PBCT" />
+    <edge source="NTRS" target="LNC" />
+    <edge source="NTRS" target="NAVI" />
+    <edge source="NTRS" target="MET" />
+    <edge source="NTRS" target="BEN" />
+    <edge source="NTRS" target="RF" />
+    <edge source="NTRS" target="STT" />
+    <edge source="NTRS" target="BRK.B" />
+    <edge source="NTRS" target="LUK" />
+    <edge source="NTRS" target="TMK" />
+    <edge source="TROW" target="BK" />
+    <edge source="TROW" target="IVZ" />
+    <edge source="TROW" target="BLK" />
+    <edge source="TROW" target="PFG" />
+    <edge source="TROW" target="BEN" />
+    <edge source="F" target="ZION" />
+    <edge source="F" target="IVZ" />
+    <edge source="F" target="BWA" />
+    <edge source="F" target="STI" />
+    <edge source="F" target="GM" />
+    <edge source="F" target="DLPH" />
+    <edge source="F" target="BEN" />
+    <edge source="EXPD" target="CTAS" />
+    <edge source="EXPD" target="ECL" />
+    <edge source="EXPD" target="CHRW" />
+    <edge source="EXPD" target="UNP" />
+    <edge source="EXPD" target="AJG" />
+    <edge source="EXPD" target="PFG" />
+    <edge source="EXPD" target="JBHT" />
+    <edge source="EXPD" target="TMK" />
+    <edge source="MCHP" target="NVDA" />
+    <edge source="MCHP" target="MA" />
+    <edge source="MCHP" target="TXN" />
+    <edge source="MCHP" target="ADBE" />
+    <edge source="MCHP" target="AMAT" />
+    <edge source="MCHP" target="MU" />
+    <edge source="MCHP" target="ADI" />
+    <edge source="MCHP" target="XLNX" />
+    <edge source="MCHP" target="AVGO" />
+    <edge source="MCHP" target="SWKS" />
+    <edge source="MCHP" target="MSFT" />
+    <edge source="MCHP" target="APH" />
+    <edge source="MCHP" target="KLAC" />
+    <edge source="MCHP" target="LRCX" />
+    <edge source="MCHP" target="CRM" />
+    <edge source="MCHP" target="QRVO" />
+    <edge source="MCHP" target="FB" />
+    <edge source="LUV" target="AAL" />
+    <edge source="LUV" target="SHW" />
+    <edge source="LUV" target="UAL" />
+    <edge source="LUV" target="ALK" />
+    <edge source="LUV" target="DAL" />
+    <edge source="MYL" target="PRGO" />
+    <edge source="GPC" target="ORLY" />
+    <edge source="GPC" target="AZO" />
+    <edge source="EA" target="ATVI" />
+    <edge source="EA" target="NVDA" />
+    <edge source="RSG" target="TMK" />
+    <edge source="LVLT" target="CTL" />
+    <edge source="WBA" target="CVS" />
+    <edge source="VLO" target="PSX" />
+    <edge source="VLO" target="MPC" />
+    <edge source="WYN" target="TSS" />
+    <edge source="WYN" target="MAR" />
+    <edge source="VTR" target="O" />
+    <edge source="VTR" target="HCP" />
+    <edge source="ETR" target="SO" />
+    <edge source="ETR" target="CNP" />
+    <edge source="ETR" target="D" />
+    <edge source="ETR" target="FE" />
+    <edge source="ETR" target="ES" />
+    <edge source="ETR" target="SRE" />
+    <edge source="ETR" target="SCG" />
+    <edge source="ETR" target="DUK" />
+    <edge source="ETR" target="EIX" />
+    <edge source="ETR" target="ED" />
+    <edge source="ETR" target="AEE" />
+    <edge source="ETR" target="AWK" />
+    <edge source="ETR" target="PNW" />
+    <edge source="ETR" target="WEC" />
+    <edge source="ETR" target="PCG" />
+    <edge source="ETR" target="NI" />
+    <edge source="ETR" target="LNT" />
+    <edge source="ETR" target="HCP" />
+    <edge source="ETR" target="PPL" />
+    <edge source="ETR" target="CMS" />
+    <edge source="ETR" target="AEP" />
+    <edge source="CTAS" target="PH" />
+    <edge source="CTAS" target="HRS" />
+    <edge source="CTAS" target="PX" />
+    <edge source="CTAS" target="HON" />
+    <edge source="CTAS" target="ADBE" />
+    <edge source="CTAS" target="LEG" />
+    <edge source="CTAS" target="ALLE" />
+    <edge source="CTAS" target="MMM" />
+    <edge source="DD" target="PX" />
+    <edge source="DD" target="APD" />
+    <edge source="DD" target="DOW" />
+    <edge source="DD" target="ETN" />
+    <edge source="DD" target="LYB" />
+    <edge source="ROST" target="TJX" />
+    <edge source="ROST" target="KSS" />
+    <edge source="ROST" target="DLTR" />
+    <edge source="STX" target="WDC" />
+    <edge source="STX" target="CHRW" />
+    <edge source="SO" target="CNP" />
+    <edge source="SO" target="D" />
+    <edge source="SO" target="FE" />
+    <edge source="SO" target="ES" />
+    <edge source="SO" target="SRE" />
+    <edge source="SO" target="SCG" />
+    <edge source="SO" target="DUK" />
+    <edge source="SO" target="EIX" />
+    <edge source="SO" target="ED" />
+    <edge source="SO" target="AEE" />
+    <edge source="SO" target="AWK" />
+    <edge source="SO" target="PNW" />
+    <edge source="SO" target="WEC" />
+    <edge source="SO" target="PCG" />
+    <edge source="SO" target="NI" />
+    <edge source="SO" target="LNT" />
+    <edge source="SO" target="PPL" />
+    <edge source="SO" target="CMS" />
+    <edge source="SO" target="AEP" />
+    <edge source="RHI" target="AAL" />
+    <edge source="RHI" target="APD" />
+    <edge source="JNJ" target="CAH" />
+    <edge source="AVY" target="CTXS" />
+    <edge source="PH" target="EMR" />
+    <edge source="PH" target="CMI" />
+    <edge source="PH" target="PX" />
+    <edge source="PH" target="HON" />
+    <edge source="PH" target="TEL" />
+    <edge source="PH" target="PNR" />
+    <edge source="PH" target="USB" />
+    <edge source="PH" target="BAC" />
+    <edge source="PH" target="IR" />
+    <edge source="PH" target="BLK" />
+    <edge source="PH" target="FLR" />
+    <edge source="PH" target="DE" />
+    <edge source="PH" target="FLS" />
+    <edge source="PH" target="CAT" />
+    <edge source="PH" target="PFG" />
+    <edge source="PH" target="LNC" />
+    <edge source="PH" target="ETN" />
+    <edge source="PH" target="L" />
+    <edge source="PH" target="DOV" />
+    <edge source="PH" target="BRK.B" />
+    <edge source="PH" target="TMK" />
+    <edge source="UPS" target="UA" />
+    <edge source="UPS" target="PNR" />
+    <edge source="UPS" target="MA" />
+    <edge source="UPS" target="UAA" />
+    <edge source="RJF" target="ZION" />
+    <edge source="RJF" target="NSC" />
+    <edge source="RJF" target="BK" />
+    <edge source="RJF" target="IVZ" />
+    <edge source="RJF" target="GS" />
+    <edge source="RJF" target="PCAR" />
+    <edge source="RJF" target="CMI" />
+    <edge source="RJF" target="BBT" />
+    <edge source="RJF" target="AXP" />
+    <edge source="RJF" target="TEL" />
+    <edge source="RJF" target="MTB" />
+    <edge source="RJF" target="URI" />
+    <edge source="RJF" target="USB" />
+    <edge source="RJF" target="HBAN" />
+    <edge source="RJF" target="BAC" />
+    <edge source="RJF" target="ETFC" />
+    <edge source="RJF" target="CFG" />
+    <edge source="RJF" target="BLK" />
+    <edge source="RJF" target="FLR" />
+    <edge source="RJF" target="WFC" />
+    <edge source="RJF" target="C" />
+    <edge source="RJF" target="STI" />
+    <edge source="RJF" target="MS" />
+    <edge source="RJF" target="JPM" />
+    <edge source="RJF" target="PFG" />
+    <edge source="RJF" target="PBCT" />
+    <edge source="RJF" target="LNC" />
+    <edge source="RJF" target="NAVI" />
+    <edge source="RJF" target="L" />
+    <edge source="RJF" target="MET" />
+    <edge source="RJF" target="BEN" />
+    <edge source="RJF" target="DAL" />
+    <edge source="RJF" target="CME" />
+    <edge source="RJF" target="RF" />
+    <edge source="RJF" target="STT" />
+    <edge source="RJF" target="BRK.B" />
+    <edge source="RJF" target="LUK" />
+    <edge source="RJF" target="TMK" />
+    <edge source="RJF" target="LYB" />
+    <edge source="IPG" target="OMC" />
+    <edge source="HP" target="NFX" />
+    <edge source="HP" target="CXO" />
+    <edge source="HP" target="PSX" />
+    <edge source="HP" target="SLB" />
+    <edge source="HP" target="HES" />
+    <edge source="HP" target="MRO" />
+    <edge source="HP" target="HAL" />
+    <edge source="HP" target="FTI" />
+    <edge source="HP" target="KMI" />
+    <edge source="HP" target="COP" />
+    <edge source="HP" target="MUR" />
+    <edge source="HP" target="DVN" />
+    <edge source="HP" target="APC" />
+    <edge source="HP" target="NOV" />
+    <edge source="HP" target="CHK" />
+    <edge source="HP" target="XEC" />
+    <edge source="HP" target="DOV" />
+    <edge source="AN" target="BWA" />
+    <edge source="AN" target="KMX" />
+    <edge source="WAT" target="MCD" />
+    <edge source="ILMN" target="BSX" />
+    <edge source="ZION" target="BK" />
+    <edge source="ZION" target="IVZ" />
+    <edge source="ZION" target="GS" />
+    <edge source="ZION" target="PCAR" />
+    <edge source="ZION" target="BBT" />
+    <edge source="ZION" target="AXP" />
+    <edge source="ZION" target="MTB" />
+    <edge source="ZION" target="USB" />
+    <edge source="ZION" target="HBAN" />
+    <edge source="ZION" target="BAC" />
+    <edge source="ZION" target="ETFC" />
+    <edge source="ZION" target="CFG" />
+    <edge source="ZION" target="BLK" />
+    <edge source="ZION" target="WFC" />
+    <edge source="ZION" target="C" />
+    <edge source="ZION" target="STI" />
+    <edge source="ZION" target="MS" />
+    <edge source="ZION" target="JPM" />
+    <edge source="ZION" target="PFG" />
+    <edge source="ZION" target="PBCT" />
+    <edge source="ZION" target="LNC" />
+    <edge source="ZION" target="NAVI" />
+    <edge source="ZION" target="L" />
+    <edge source="ZION" target="MET" />
+    <edge source="ZION" target="BEN" />
+    <edge source="ZION" target="CME" />
+    <edge source="ZION" target="RF" />
+    <edge source="ZION" target="STT" />
+    <edge source="ZION" target="BRK.B" />
+    <edge source="ZION" target="LUK" />
+    <edge source="ZION" target="TMK" />
+    <edge source="SWK" target="HON" />
+    <edge source="SWK" target="PNR" />
+    <edge source="SWK" target="MA" />
+    <edge source="SWK" target="PFG" />
+    <edge source="SWK" target="COL" />
+    <edge source="SWK" target="TMK" />
+    <edge source="NFX" target="CXO" />
+    <edge source="NFX" target="SLB" />
+    <edge source="NFX" target="HES" />
+    <edge source="NFX" target="RRC" />
+    <edge source="NFX" target="MRO" />
+    <edge source="NFX" target="HAL" />
+    <edge source="NFX" target="FTI" />
+    <edge source="NFX" target="APA" />
+    <edge source="NFX" target="KMI" />
+    <edge source="NFX" target="COP" />
+    <edge source="NFX" target="MUR" />
+    <edge source="NFX" target="DVN" />
+    <edge source="NFX" target="APC" />
+    <edge source="NFX" target="NOV" />
+    <edge source="NFX" target="CHK" />
+    <edge source="NFX" target="XEC" />
+    <edge source="NFX" target="DOV" />
+    <edge source="AES" target="CNP" />
+    <edge source="AES" target="FE" />
+    <edge source="AES" target="SRE" />
+    <edge source="AES" target="PNW" />
+    <edge source="HD" target="LOW" />
+    <edge source="REGN" target="CELG" />
+    <edge source="NFLX" target="ADBE" />
+    <edge source="NFLX" target="AMAT" />
+    <edge source="NFLX" target="GOOGL" />
+    <edge source="NFLX" target="GOOG" />
+    <edge source="NFLX" target="MSFT" />
+    <edge source="NFLX" target="LRCX" />
+    <edge source="NFLX" target="FB" />
+    <edge source="NSC" target="CSX" />
+    <edge source="NSC" target="TEL" />
+    <edge source="NSC" target="CFG" />
+    <edge source="NSC" target="UNP" />
+    <edge source="NSC" target="ETN" />
+    <edge source="NSC" target="TMK" />
+    <edge source="AKAM" target="GILD" />
+    <edge source="SNA" target="IP" />
+    <edge source="SNA" target="AXP" />
+    <edge source="SNA" target="ETFC" />
+    <edge source="SNA" target="MET" />
+    <edge source="TSS" target="STT" />
+    <edge source="MKC" target="GIS" />
+    <edge source="MKC" target="K" />
+    <edge source="MKC" target="CAG" />
+    <edge source="CXO" target="SLB" />
+    <edge source="CXO" target="HES" />
+    <edge source="CXO" target="MRO" />
+    <edge source="CXO" target="HAL" />
+    <edge source="CXO" target="APA" />
+    <edge source="CXO" target="EQT" />
+    <edge source="CXO" target="COP" />
+    <edge source="CXO" target="MUR" />
+    <edge source="CXO" target="DVN" />
+    <edge source="CXO" target="APC" />
+    <edge source="CXO" target="CHK" />
+    <edge source="CXO" target="XEC" />
+    <edge source="AAL" target="UAL" />
+    <edge source="AAL" target="ALK" />
+    <edge source="AAL" target="DAL" />
+    <edge source="AIZ" target="BBT" />
+    <edge source="AIZ" target="MTB" />
+    <edge source="AIZ" target="USB" />
+    <edge source="AIZ" target="CFG" />
+    <edge source="AIZ" target="WFC" />
+    <edge source="AIZ" target="STI" />
+    <edge source="AIZ" target="PBCT" />
+    <edge source="AIZ" target="LNC" />
+    <edge source="AIZ" target="TMK" />
+    <edge source="BK" target="IVZ" />
+    <edge source="BK" target="GS" />
+    <edge source="BK" target="BBT" />
+    <edge source="BK" target="AXP" />
+    <edge source="BK" target="MTB" />
+    <edge source="BK" target="USB" />
+    <edge source="BK" target="HBAN" />
+    <edge source="BK" target="BAC" />
+    <edge source="BK" target="ETFC" />
+    <edge source="BK" target="CFG" />
+    <edge source="BK" target="BLK" />
+    <edge source="BK" target="WFC" />
+    <edge source="BK" target="C" />
+    <edge source="BK" target="STI" />
+    <edge source="BK" target="MS" />
+    <edge source="BK" target="HIG" />
+    <edge source="BK" target="JPM" />
+    <edge source="BK" target="PFG" />
+    <edge source="BK" target="PBCT" />
+    <edge source="BK" target="LNC" />
+    <edge source="BK" target="NAVI" />
+    <edge source="BK" target="AMG" />
+    <edge source="BK" target="JBHT" />
+    <edge source="BK" target="L" />
+    <edge source="BK" target="MET" />
+    <edge source="BK" target="BEN" />
+    <edge source="BK" target="DAL" />
+    <edge source="BK" target="CME" />
+    <edge source="BK" target="RF" />
+    <edge source="BK" target="STT" />
+    <edge source="BK" target="BRK.B" />
+    <edge source="BK" target="CINF" />
+    <edge source="BK" target="LUK" />
+    <edge source="BK" target="TMK" />
+    <edge source="CNP" target="D" />
+    <edge source="CNP" target="FE" />
+    <edge source="CNP" target="ES" />
+    <edge source="CNP" target="SRE" />
+    <edge source="CNP" target="SCG" />
+    <edge source="CNP" target="DUK" />
+    <edge source="CNP" target="EIX" />
+    <edge source="CNP" target="ED" />
+    <edge source="CNP" target="AEE" />
+    <edge source="CNP" target="AWK" />
+    <edge source="CNP" target="PNW" />
+    <edge source="CNP" target="WEC" />
+    <edge source="CNP" target="PCG" />
+    <edge source="CNP" target="NI" />
+    <edge source="CNP" target="LNT" />
+    <edge source="CNP" target="PPL" />
+    <edge source="CNP" target="CMS" />
+    <edge source="CNP" target="AEP" />
+    <edge source="IVZ" target="GS" />
+    <edge source="IVZ" target="BBT" />
+    <edge source="IVZ" target="TEL" />
+    <edge source="IVZ" target="USB" />
+    <edge source="IVZ" target="HBAN" />
+    <edge source="IVZ" target="BAC" />
+    <edge source="IVZ" target="CFG" />
+    <edge source="IVZ" target="BLK" />
+    <edge source="IVZ" target="C" />
+    <edge source="IVZ" target="STI" />
+    <edge source="IVZ" target="MS" />
+    <edge source="IVZ" target="JPM" />
+    <edge source="IVZ" target="PFG" />
+    <edge source="IVZ" target="LNC" />
+    <edge source="IVZ" target="AMG" />
+    <edge source="IVZ" target="MET" />
+    <edge source="IVZ" target="BEN" />
+    <edge source="IVZ" target="DAL" />
+    <edge source="IVZ" target="STT" />
+    <edge source="IVZ" target="TMK" />
+    <edge source="PSX" target="SLB" />
+    <edge source="PSX" target="PNR" />
+    <edge source="PSX" target="KMI" />
+    <edge source="PSX" target="MUR" />
+    <edge source="PSX" target="MPC" />
+    <edge source="PSX" target="DOV" />
+    <edge source="PSX" target="XOM" />
+    <edge source="ANSS" target="WLTW" />
+    <edge source="GS" target="BBT" />
+    <edge source="GS" target="AXP" />
+    <edge source="GS" target="MTB" />
+    <edge source="GS" target="USB" />
+    <edge source="GS" target="HBAN" />
+    <edge source="GS" target="BAC" />
+    <edge source="GS" target="ETFC" />
+    <edge source="GS" target="CFG" />
+    <edge source="GS" target="BLK" />
+    <edge source="GS" target="WFC" />
+    <edge source="GS" target="C" />
+    <edge source="GS" target="STI" />
+    <edge source="GS" target="MS" />
+    <edge source="GS" target="JPM" />
+    <edge source="GS" target="PFG" />
+    <edge source="GS" target="PBCT" />
+    <edge source="GS" target="LNC" />
+    <edge source="GS" target="NAVI" />
+    <edge source="GS" target="L" />
+    <edge source="GS" target="MET" />
+    <edge source="GS" target="BEN" />
+    <edge source="GS" target="RF" />
+    <edge source="GS" target="STT" />
+    <edge source="GS" target="BRK.B" />
+    <edge source="GS" target="LUK" />
+    <edge source="GS" target="TMK" />
+    <edge source="EFX" target="ALLE" />
+    <edge source="EMR" target="CMI" />
+    <edge source="EMR" target="PNR" />
+    <edge source="EMR" target="IR" />
+    <edge source="EMR" target="FLR" />
+    <edge source="EMR" target="FLS" />
+    <edge source="EMR" target="UNP" />
+    <edge source="EMR" target="CAT" />
+    <edge source="EMR" target="PFG" />
+    <edge source="EMR" target="MOS" />
+    <edge source="EMR" target="LNC" />
+    <edge source="EMR" target="ETN" />
+    <edge source="EMR" target="NOV" />
+    <edge source="EMR" target="DOV" />
+    <edge source="KSU" target="BLK" />
+    <edge source="KSU" target="UNP" />
+    <edge source="PYPL" target="MA" />
+    <edge source="PYPL" target="GOOGL" />
+    <edge source="PYPL" target="GOOG" />
+    <edge source="PYPL" target="APH" />
+    <edge source="PYPL" target="INTU" />
+    <edge source="SHW" target="RCL" />
+    <edge source="CTXS" target="D" />
+    <edge source="CTXS" target="AAPL" />
+    <edge source="HRS" target="RTN" />
+    <edge source="HRS" target="APH" />
+    <edge source="LOW" target="BRK.B" />
+    <edge source="PCAR" target="CMI" />
+    <edge source="PCAR" target="HON" />
+    <edge source="PCAR" target="FLR" />
+    <edge source="PCAR" target="PFG" />
+    <edge source="PCAR" target="LNC" />
+    <edge source="PCAR" target="ETN" />
+    <edge source="PCAR" target="JBHT" />
+    <edge source="PCAR" target="MET" />
+    <edge source="PCAR" target="DOV" />
+    <edge source="PCAR" target="TMK" />
+    <edge source="SLB" target="HES" />
+    <edge source="SLB" target="MRO" />
+    <edge source="SLB" target="HAL" />
+    <edge source="SLB" target="FTI" />
+    <edge source="SLB" target="APA" />
+    <edge source="SLB" target="KMI" />
+    <edge source="SLB" target="COP" />
+    <edge source="SLB" target="MUR" />
+    <edge source="SLB" target="DVN" />
+    <edge source="SLB" target="OKE" />
+    <edge source="SLB" target="APC" />
+    <edge source="SLB" target="NOV" />
+    <edge source="SLB" target="CHK" />
+    <edge source="SLB" target="XEC" />
+    <edge source="SLB" target="DOV" />
+    <edge source="UAL" target="ALK" />
+    <edge source="UAL" target="DAL" />
+    <edge source="D" target="FE" />
+    <edge source="D" target="ES" />
+    <edge source="D" target="SRE" />
+    <edge source="D" target="DUK" />
+    <edge source="D" target="EIX" />
+    <edge source="D" target="ED" />
+    <edge source="D" target="AEE" />
+    <edge source="D" target="AWK" />
+    <edge source="D" target="PNW" />
+    <edge source="D" target="WEC" />
+    <edge source="D" target="PCG" />
+    <edge source="D" target="NI" />
+    <edge source="D" target="LNT" />
+    <edge source="D" target="PPL" />
+    <edge source="D" target="CMS" />
+    <edge source="D" target="AEP" />
+    <edge source="SJM" target="GIS" />
+    <edge source="SJM" target="K" />
+    <edge source="SJM" target="CAG" />
+    <edge source="SJM" target="CPB" />
+    <edge source="FE" target="ES" />
+    <edge source="FE" target="SRE" />
+    <edge source="FE" target="DUK" />
+    <edge source="FE" target="EIX" />
+    <edge source="FE" target="ED" />
+    <edge source="FE" target="AEE" />
+    <edge source="FE" target="AWK" />
+    <edge source="FE" target="PNW" />
+    <edge source="FE" target="WEC" />
+    <edge source="FE" target="PCG" />
+    <edge source="FE" target="NI" />
+    <edge source="FE" target="LNT" />
+    <edge source="FE" target="PPL" />
+    <edge source="FE" target="CMS" />
+    <edge source="FE" target="AEP" />
+    <edge source="WMB" target="HAL" />
+    <edge source="WMB" target="KMI" />
+    <edge source="WMB" target="OKE" />
+    <edge source="CMI" target="HON" />
+    <edge source="CMI" target="TEL" />
+    <edge source="CMI" target="PNR" />
+    <edge source="CMI" target="USB" />
+    <edge source="CMI" target="IR" />
+    <edge source="CMI" target="CFG" />
+    <edge source="CMI" target="BLK" />
+    <edge source="CMI" target="FLR" />
+    <edge source="CMI" target="LEG" />
+    <edge source="CMI" target="FLS" />
+    <edge source="CMI" target="CAT" />
+    <edge source="CMI" target="PFG" />
+    <edge source="CMI" target="MLM" />
+    <edge source="CMI" target="LNC" />
+    <edge source="CMI" target="ETN" />
+    <edge source="CMI" target="MET" />
+    <edge source="CMI" target="DAL" />
+    <edge source="CMI" target="DOV" />
+    <edge source="CMI" target="BRK.B" />
+    <edge source="CMI" target="TMK" />
+    <edge source="IP" target="WRK" />
+    <edge source="IP" target="BLL" />
+    <edge source="IP" target="MAS" />
+    <edge source="IP" target="MET" />
+    <edge source="FRT" target="MAC" />
+    <edge source="FRT" target="SPG" />
+    <edge source="FRT" target="REG" />
+    <edge source="FRT" target="BXP" />
+    <edge source="FRT" target="KIM" />
+    <edge source="FRT" target="O" />
+    <edge source="FRT" target="GGP" />
+    <edge source="FRT" target="SLG" />
+    <edge source="FRT" target="VNO" />
+    <edge source="BBT" target="AXP" />
+    <edge source="BBT" target="TEL" />
+    <edge source="BBT" target="MTB" />
+    <edge source="BBT" target="USB" />
+    <edge source="BBT" target="HBAN" />
+    <edge source="BBT" target="BAC" />
+    <edge source="BBT" target="ETFC" />
+    <edge source="BBT" target="CFG" />
+    <edge source="BBT" target="BLK" />
+    <edge source="BBT" target="WFC" />
+    <edge source="BBT" target="C" />
+    <edge source="BBT" target="STI" />
+    <edge source="BBT" target="MS" />
+    <edge source="BBT" target="HIG" />
+    <edge source="BBT" target="AJG" />
+    <edge source="BBT" target="JPM" />
+    <edge source="BBT" target="PFG" />
+    <edge source="BBT" target="PBCT" />
+    <edge source="BBT" target="LNC" />
+    <edge source="BBT" target="NAVI" />
+    <edge source="BBT" target="L" />
+    <edge source="BBT" target="MET" />
+    <edge source="BBT" target="BEN" />
+    <edge source="BBT" target="DAL" />
+    <edge source="BBT" target="CME" />
+    <edge source="BBT" target="RF" />
+    <edge source="BBT" target="STT" />
+    <edge source="BBT" target="BRK.B" />
+    <edge source="BBT" target="CINF" />
+    <edge source="BBT" target="LUK" />
+    <edge source="BBT" target="TMK" />
+    <edge source="PX" target="PNR" />
+    <edge source="PX" target="APD" />
+    <edge source="PX" target="UNP" />
+    <edge source="PX" target="CAT" />
+    <edge source="PX" target="PFG" />
+    <edge source="PX" target="DOW" />
+    <edge source="PX" target="ETN" />
+    <edge source="PX" target="L" />
+    <edge source="PX" target="PPG" />
+    <edge source="PX" target="DOV" />
+    <edge source="PX" target="BRK.B" />
+    <edge source="PX" target="TMK" />
+    <edge source="PX" target="LYB" />
+    <edge source="CSCO" target="SNPS" />
+    <edge source="GT" target="BWA" />
+    <edge source="RTN" target="UTX" />
+    <edge source="ECL" target="TEL" />
+    <edge source="CAH" target="GWW" />
+    <edge source="CAH" target="MCK" />
+    <edge source="TWX" target="T" />
+    <edge source="HES" target="MRO" />
+    <edge source="HES" target="HAL" />
+    <edge source="HES" target="FTI" />
+    <edge source="HES" target="APA" />
+    <edge source="HES" target="COP" />
+    <edge source="HES" target="MUR" />
+    <edge source="HES" target="DVN" />
+    <edge source="HES" target="OKE" />
+    <edge source="HES" target="APC" />
+    <edge source="HES" target="NOV" />
+    <edge source="HES" target="MPC" />
+    <edge source="HES" target="CHK" />
+    <edge source="HES" target="XEC" />
+    <edge source="HES" target="DOV" />
+    <edge source="AXP" target="MTB" />
+    <edge source="AXP" target="USB" />
+    <edge source="AXP" target="HBAN" />
+    <edge source="AXP" target="BAC" />
+    <edge source="AXP" target="CFG" />
+    <edge source="AXP" target="BLK" />
+    <edge source="AXP" target="WFC" />
+    <edge source="AXP" target="C" />
+    <edge source="AXP" target="STI" />
+    <edge source="AXP" target="MS" />
+    <edge source="AXP" target="ADS" />
+    <edge source="AXP" target="JPM" />
+    <edge source="AXP" target="PFG" />
+    <edge source="AXP" target="PBCT" />
+    <edge source="AXP" target="LNC" />
+    <edge source="AXP" target="NAVI" />
+    <edge source="AXP" target="MET" />
+    <edge source="AXP" target="RF" />
+    <edge source="AXP" target="STT" />
+    <edge source="AXP" target="BRK.B" />
+    <edge source="AXP" target="LUK" />
+    <edge source="AXP" target="TMK" />
+    <edge source="FLIR" target="JEC" />
+    <edge source="HON" target="TEL" />
+    <edge source="HON" target="PNR" />
+    <edge source="HON" target="MA" />
+    <edge source="HON" target="IR" />
+    <edge source="HON" target="BLK" />
+    <edge source="HON" target="FISV" />
+    <edge source="HON" target="MSFT" />
+    <edge source="HON" target="PFG" />
+    <edge source="HON" target="APH" />
+    <edge source="HON" target="TXT" />
+    <edge source="HON" target="COL" />
+    <edge source="HON" target="ETN" />
+    <edge source="HON" target="MMM" />
+    <edge source="HON" target="UTX" />
+    <edge source="HON" target="TMK" />
+    <edge source="XL" target="CB" />
+    <edge source="XL" target="AJG" />
+    <edge source="XL" target="TRV" />
+    <edge source="XL" target="L" />
+    <edge source="XL" target="TMK" />
+    <edge source="ES" target="SRE" />
+    <edge source="ES" target="SCG" />
+    <edge source="ES" target="DUK" />
+    <edge source="ES" target="EIX" />
+    <edge source="ES" target="ED" />
+    <edge source="ES" target="AEE" />
+    <edge source="ES" target="AWK" />
+    <edge source="ES" target="PNW" />
+    <edge source="ES" target="WEC" />
+    <edge source="ES" target="PCG" />
+    <edge source="ES" target="NI" />
+    <edge source="ES" target="LNT" />
+    <edge source="ES" target="PPL" />
+    <edge source="ES" target="CMS" />
+    <edge source="ES" target="AEP" />
+    <edge source="VMC" target="MLM" />
+    <edge source="MAC" target="SPG" />
+    <edge source="MAC" target="REG" />
+    <edge source="MAC" target="BXP" />
+    <edge source="MAC" target="KIM" />
+    <edge source="MAC" target="O" />
+    <edge source="MAC" target="GGP" />
+    <edge source="MAC" target="SLG" />
+    <edge source="MAC" target="VNO" />
+    <edge source="BBBY" target="DLTR" />
+    <edge source="SPG" target="REG" />
+    <edge source="SPG" target="BXP" />
+    <edge source="SPG" target="KIM" />
+    <edge source="SPG" target="O" />
+    <edge source="SPG" target="GGP" />
+    <edge source="BWA" target="GM" />
+    <edge source="BWA" target="DLPH" />
+    <edge source="TEL" target="A" />
+    <edge source="TEL" target="USB" />
+    <edge source="TEL" target="HBAN" />
+    <edge source="TEL" target="TXN" />
+    <edge source="TEL" target="GOOGL" />
+    <edge source="TEL" target="BAC" />
+    <edge source="TEL" target="IR" />
+    <edge source="TEL" target="BA" />
+    <edge source="TEL" target="CFG" />
+    <edge source="TEL" target="BLK" />
+    <edge source="TEL" target="WRK" />
+    <edge source="TEL" target="GOOG" />
+    <edge source="TEL" target="UNP" />
+    <edge source="TEL" target="GLW" />
+    <edge source="TEL" target="STI" />
+    <edge source="TEL" target="MS" />
+    <edge source="TEL" target="JPM" />
+    <edge source="TEL" target="PFG" />
+    <edge source="TEL" target="LNC" />
+    <edge source="TEL" target="ETN" />
+    <edge source="TEL" target="BEN" />
+    <edge source="TEL" target="BRK.B" />
+    <edge source="TEL" target="CSRA" />
+    <edge source="TEL" target="TMK" />
+    <edge source="VRSN" target="CRM" />
+    <edge source="WDC" target="ADBE" />
+    <edge source="WDC" target="GOOGL" />
+    <edge source="WDC" target="MU" />
+    <edge source="WDC" target="GOOG" />
+    <edge source="SRE" target="SCG" />
+    <edge source="SRE" target="DUK" />
+    <edge source="SRE" target="EIX" />
+    <edge source="SRE" target="ED" />
+    <edge source="SRE" target="AEE" />
+    <edge source="SRE" target="AWK" />
+    <edge source="SRE" target="PNW" />
+    <edge source="SRE" target="WEC" />
+    <edge source="SRE" target="PCG" />
+    <edge source="SRE" target="NI" />
+    <edge source="SRE" target="LNT" />
+    <edge source="SRE" target="PPL" />
+    <edge source="SRE" target="CMS" />
+    <edge source="SRE" target="AEP" />
+    <edge source="ISRG" target="LRCX" />
+    <edge source="UA" target="UAA" />
+    <edge source="GIS" target="K" />
+    <edge source="GIS" target="CAG" />
+    <edge source="GIS" target="CPB" />
+    <edge source="REG" target="BXP" />
+    <edge source="REG" target="KIM" />
+    <edge source="REG" target="O" />
+    <edge source="REG" target="GGP" />
+    <edge source="REG" target="VNO" />
+    <edge source="PEP" target="PNW" />
+    <edge source="PEP" target="DPS" />
+    <edge source="PEP" target="LNT" />
+    <edge source="PEP" target="KO" />
+    <edge source="PEP" target="PPL" />
+    <edge source="PEP" target="CMS" />
+    <edge source="SCG" target="DUK" />
+    <edge source="SCG" target="ED" />
+    <edge source="SCG" target="AWK" />
+    <edge source="SCG" target="PNW" />
+    <edge source="SCG" target="WEC" />
+    <edge source="SCG" target="NI" />
+    <edge source="SCG" target="LNT" />
+    <edge source="SCG" target="PPL" />
+    <edge source="SCG" target="CMS" />
+    <edge source="SCG" target="AEP" />
+    <edge source="NVDA" target="TXN" />
+    <edge source="NVDA" target="AMAT" />
+    <edge source="NVDA" target="AMD" />
+    <edge source="RRC" target="HAL" />
+    <edge source="RRC" target="COG" />
+    <edge source="RRC" target="APA" />
+    <edge source="RRC" target="EQT" />
+    <edge source="RRC" target="DVN" />
+    <edge source="RRC" target="APC" />
+    <edge source="RRC" target="CHK" />
+    <edge source="RRC" target="XEC" />
+    <edge source="VZ" target="T" />
+    <edge source="DUK" target="EIX" />
+    <edge source="DUK" target="ED" />
+    <edge source="DUK" target="AEE" />
+    <edge source="DUK" target="AWK" />
+    <edge source="DUK" target="PNW" />
+    <edge source="DUK" target="WEC" />
+    <edge source="DUK" target="PCG" />
+    <edge source="DUK" target="NI" />
+    <edge source="DUK" target="LNT" />
+    <edge source="DUK" target="PPL" />
+    <edge source="DUK" target="CMS" />
+    <edge source="DUK" target="AEP" />
+    <edge source="MRO" target="HAL" />
+    <edge source="MRO" target="FTI" />
+    <edge source="MRO" target="APA" />
+    <edge source="MRO" target="KMI" />
+    <edge source="MRO" target="COP" />
+    <edge source="MRO" target="MUR" />
+    <edge source="MRO" target="DVN" />
+    <edge source="MRO" target="OKE" />
+    <edge source="MRO" target="APC" />
+    <edge source="MRO" target="NOV" />
+    <edge source="MRO" target="CHK" />
+    <edge source="MRO" target="XEC" />
+    <edge source="MRO" target="DOV" />
+    <edge source="MRO" target="XOM" />
+    <edge source="JEC" target="AIG" />
+    <edge source="UHS" target="EVHC" />
+    <edge source="UHS" target="HCA" />
+    <edge source="BXP" target="KIM" />
+    <edge source="BXP" target="O" />
+    <edge source="BXP" target="ARE" />
+    <edge source="BXP" target="GGP" />
+    <edge source="BXP" target="AVB" />
+    <edge source="BXP" target="SLG" />
+    <edge source="BXP" target="VNO" />
+    <edge source="MTB" target="USB" />
+    <edge source="MTB" target="HBAN" />
+    <edge source="MTB" target="BAC" />
+    <edge source="MTB" target="ETFC" />
+    <edge source="MTB" target="CFG" />
+    <edge source="MTB" target="BLK" />
+    <edge source="MTB" target="WFC" />
+    <edge source="MTB" target="C" />
+    <edge source="MTB" target="STI" />
+    <edge source="MTB" target="MS" />
+    <edge source="MTB" target="HIG" />
+    <edge source="MTB" target="AJG" />
+    <edge source="MTB" target="JPM" />
+    <edge source="MTB" target="PFG" />
+    <edge source="MTB" target="PBCT" />
+    <edge source="MTB" target="LNC" />
+    <edge source="MTB" target="NAVI" />
+    <edge source="MTB" target="L" />
+    <edge source="MTB" target="MET" />
+    <edge source="MTB" target="BEN" />
+    <edge source="MTB" target="DAL" />
+    <edge source="MTB" target="CME" />
+    <edge source="MTB" target="RF" />
+    <edge source="MTB" target="STT" />
+    <edge source="MTB" target="BRK.B" />
+    <edge source="MTB" target="LUK" />
+    <edge source="MTB" target="TMK" />
+    <edge source="A" target="TMO" />
+    <edge source="A" target="PKI" />
+    <edge source="PNR" target="IR" />
+    <edge source="PNR" target="BLK" />
+    <edge source="PNR" target="FLR" />
+    <edge source="PNR" target="FLS" />
+    <edge source="PNR" target="CAT" />
+    <edge source="PNR" target="PFG" />
+    <edge source="PNR" target="ETN" />
+    <edge source="PNR" target="MAS" />
+    <edge source="PNR" target="FBHS" />
+    <edge source="PNR" target="DOV" />
+    <edge source="PNR" target="TMK" />
+    <edge source="PNR" target="LYB" />
+    <edge source="URI" target="FLR" />
+    <edge source="URI" target="TXT" />
+    <edge source="URI" target="LNC" />
+    <edge source="URI" target="ETN" />
+    <edge source="URI" target="DOV" />
+    <edge source="PM" target="RAI" />
+    <edge source="MA" target="TXN" />
+    <edge source="MA" target="ADBE" />
+    <edge source="MA" target="AMAT" />
+    <edge source="MA" target="GOOGL" />
+    <edge source="MA" target="BLK" />
+    <edge source="MA" target="GOOG" />
+    <edge source="MA" target="FISV" />
+    <edge source="MA" target="MSFT" />
+    <edge source="MA" target="APH" />
+    <edge source="MA" target="KLAC" />
+    <edge source="MA" target="LRCX" />
+    <edge source="MA" target="V" />
+    <edge source="MA" target="CRM" />
+    <edge source="M" target="KSS" />
+    <edge source="USB" target="HBAN" />
+    <edge source="USB" target="BAC" />
+    <edge source="USB" target="ETFC" />
+    <edge source="USB" target="CFG" />
+    <edge source="USB" target="BLK" />
+    <edge source="USB" target="FLR" />
+    <edge source="USB" target="WFC" />
+    <edge source="USB" target="C" />
+    <edge source="USB" target="GLW" />
+    <edge source="USB" target="STI" />
+    <edge source="USB" target="MS" />
+    <edge source="USB" target="HIG" />
+    <edge source="USB" target="AJG" />
+    <edge source="USB" target="JPM" />
+    <edge source="USB" target="PFG" />
+    <edge source="USB" target="PBCT" />
+    <edge source="USB" target="LNC" />
+    <edge source="USB" target="NAVI" />
+    <edge source="USB" target="L" />
+    <edge source="USB" target="MET" />
+    <edge source="USB" target="BEN" />
+    <edge source="USB" target="DAL" />
+    <edge source="USB" target="CME" />
+    <edge source="USB" target="RF" />
+    <edge source="USB" target="STT" />
+    <edge source="USB" target="BRK.B" />
+    <edge source="USB" target="CINF" />
+    <edge source="USB" target="LUK" />
+    <edge source="USB" target="TMK" />
+    <edge source="HAL" target="FTI" />
+    <edge source="HAL" target="APA" />
+    <edge source="HAL" target="KMI" />
+    <edge source="HAL" target="COP" />
+    <edge source="HAL" target="MUR" />
+    <edge source="HAL" target="DVN" />
+    <edge source="HAL" target="OKE" />
+    <edge source="HAL" target="APC" />
+    <edge source="HAL" target="NOV" />
+    <edge source="HAL" target="MPC" />
+    <edge source="HAL" target="CHK" />
+    <edge source="HAL" target="XEC" />
+    <edge source="HAL" target="DOV" />
+    <edge source="HAL" target="LYB" />
+    <edge source="EIX" target="ED" />
+    <edge source="EIX" target="AEE" />
+    <edge source="EIX" target="AWK" />
+    <edge source="EIX" target="PNW" />
+    <edge source="EIX" target="WEC" />
+    <edge source="EIX" target="PCG" />
+    <edge source="EIX" target="NI" />
+    <edge source="EIX" target="LNT" />
+    <edge source="EIX" target="PPL" />
+    <edge source="EIX" target="CMS" />
+    <edge source="EIX" target="AEP" />
+    <edge source="HBAN" target="BAC" />
+    <edge source="HBAN" target="ETFC" />
+    <edge source="HBAN" target="CFG" />
+    <edge source="HBAN" target="BLK" />
+    <edge source="HBAN" target="FLR" />
+    <edge source="HBAN" target="WFC" />
+    <edge source="HBAN" target="C" />
+    <edge source="HBAN" target="STI" />
+    <edge source="HBAN" target="MS" />
+    <edge source="HBAN" target="AJG" />
+    <edge source="HBAN" target="JPM" />
+    <edge source="HBAN" target="PFG" />
+    <edge source="HBAN" target="PBCT" />
+    <edge source="HBAN" target="LNC" />
+    <edge source="HBAN" target="NAVI" />
+    <edge source="HBAN" target="L" />
+    <edge source="HBAN" target="MET" />
+    <edge source="HBAN" target="BEN" />
+    <edge source="HBAN" target="CME" />
+    <edge source="HBAN" target="RF" />
+    <edge source="HBAN" target="STT" />
+    <edge source="HBAN" target="BRK.B" />
+    <edge source="HBAN" target="LUK" />
+    <edge source="HBAN" target="TMK" />
+    <edge source="TXN" target="ADBE" />
+    <edge source="TXN" target="AMAT" />
+    <edge source="TXN" target="GOOGL" />
+    <edge source="TXN" target="AAPL" />
+    <edge source="TXN" target="MU" />
+    <edge source="TXN" target="ADI" />
+    <edge source="TXN" target="AVGO" />
+    <edge source="TXN" target="GOOG" />
+    <edge source="TXN" target="UNP" />
+    <edge source="TXN" target="GLW" />
+    <edge source="TXN" target="SWKS" />
+    <edge source="TXN" target="MSFT" />
+    <edge source="TXN" target="KLAC" />
+    <edge source="TXN" target="LRCX" />
+    <edge source="TXN" target="V" />
+    <edge source="TXN" target="QRVO" />
+    <edge source="TXN" target="FB" />
+    <edge source="ADBE" target="AMAT" />
+    <edge source="ADBE" target="GOOGL" />
+    <edge source="ADBE" target="RHT" />
+    <edge source="ADBE" target="XLNX" />
+    <edge source="ADBE" target="AVGO" />
+    <edge source="ADBE" target="GOOG" />
+    <edge source="ADBE" target="GLW" />
+    <edge source="ADBE" target="MSFT" />
+    <edge source="ADBE" target="KLAC" />
+    <edge source="ADBE" target="LRCX" />
+    <edge source="ADBE" target="V" />
+    <edge source="ADBE" target="AMZN" />
+    <edge source="ADBE" target="CRM" />
+    <edge source="ADBE" target="FB" />
+    <edge source="AMAT" target="GOOGL" />
+    <edge source="AMAT" target="AAPL" />
+    <edge source="AMAT" target="MU" />
+    <edge source="AMAT" target="ADI" />
+    <edge source="AMAT" target="XLNX" />
+    <edge source="AMAT" target="AVGO" />
+    <edge source="AMAT" target="GOOG" />
+    <edge source="AMAT" target="SWKS" />
+    <edge source="AMAT" target="MSFT" />
+    <edge source="AMAT" target="KLAC" />
+    <edge source="AMAT" target="LRCX" />
+    <edge source="AMAT" target="CRM" />
+    <edge source="AMAT" target="QRVO" />
+    <edge source="AMAT" target="FB" />
+    <edge source="GOOGL" target="GOOG" />
+    <edge source="GOOGL" target="MSFT" />
+    <edge source="GOOGL" target="CCL" />
+    <edge source="GOOGL" target="LRCX" />
+    <edge source="GOOGL" target="V" />
+    <edge source="GOOGL" target="AMZN" />
+    <edge source="GOOGL" target="CRM" />
+    <edge source="GOOGL" target="FB" />
+    <edge source="MMC" target="CB" />
+    <edge source="MMC" target="AJG" />
+    <edge source="MMC" target="TRV" />
+    <edge source="MMC" target="WLTW" />
+    <edge source="MMC" target="PFG" />
+    <edge source="MMC" target="APH" />
+    <edge source="MMC" target="L" />
+    <edge source="MMC" target="AFL" />
+    <edge source="MMC" target="TMK" />
+    <edge source="BAC" target="ETFC" />
+    <edge source="BAC" target="CFG" />
+    <edge source="BAC" target="BLK" />
+    <edge source="BAC" target="FLR" />
+    <edge source="BAC" target="WFC" />
+    <edge source="BAC" target="C" />
+    <edge source="BAC" target="GLW" />
+    <edge source="BAC" target="STI" />
+    <edge source="BAC" target="MS" />
+    <edge source="BAC" target="JPM" />
+    <edge source="BAC" target="PFG" />
+    <edge source="BAC" target="PBCT" />
+    <edge source="BAC" target="LNC" />
+    <edge source="BAC" target="NAVI" />
+    <edge source="BAC" target="L" />
+    <edge source="BAC" target="MET" />
+    <edge source="BAC" target="BEN" />
+    <edge source="BAC" target="DAL" />
+    <edge source="BAC" target="CME" />
+    <edge source="BAC" target="RF" />
+    <edge source="BAC" target="STT" />
+    <edge source="BAC" target="BRK.B" />
+    <edge source="BAC" target="LUK" />
+    <edge source="BAC" target="TMK" />
+    <edge source="KIM" target="O" />
+    <edge source="KIM" target="GGP" />
+    <edge source="KIM" target="VNO" />
+    <edge source="RHT" target="CRM" />
+    <edge source="RHT" target="CA" />
+    <edge source="COG" target="EQT" />
+    <edge source="IT" target="KSS" />
+    <edge source="IR" target="BLK" />
+    <edge source="IR" target="FLS" />
+    <edge source="IR" target="UNP" />
+    <edge source="IR" target="CAT" />
+    <edge source="IR" target="ETN" />
+    <edge source="IR" target="MAS" />
+    <edge source="IR" target="DOV" />
+    <edge source="IR" target="UTX" />
+    <edge source="ETFC" target="CFG" />
+    <edge source="ETFC" target="WFC" />
+    <edge source="ETFC" target="C" />
+    <edge source="ETFC" target="STI" />
+    <edge source="ETFC" target="MS" />
+    <edge source="ETFC" target="JPM" />
+    <edge source="ETFC" target="PFG" />
+    <edge source="ETFC" target="PBCT" />
+    <edge source="ETFC" target="LNC" />
+    <edge source="ETFC" target="MET" />
+    <edge source="ETFC" target="CME" />
+    <edge source="ETFC" target="RF" />
+    <edge source="ETFC" target="BRK.B" />
+    <edge source="ETFC" target="TMK" />
+    <edge source="CFG" target="BLK" />
+    <edge source="CFG" target="FLR" />
+    <edge source="CFG" target="WFC" />
+    <edge source="CFG" target="C" />
+    <edge source="CFG" target="UNP" />
+    <edge source="CFG" target="GLW" />
+    <edge source="CFG" target="STI" />
+    <edge source="CFG" target="MS" />
+    <edge source="CFG" target="JPM" />
+    <edge source="CFG" target="PFG" />
+    <edge source="CFG" target="PBCT" />
+    <edge source="CFG" target="LNC" />
+    <edge source="CFG" target="NAVI" />
+    <edge source="CFG" target="L" />
+    <edge source="CFG" target="MET" />
+    <edge source="CFG" target="BEN" />
+    <edge source="CFG" target="CME" />
+    <edge source="CFG" target="RF" />
+    <edge source="CFG" target="STT" />
+    <edge source="CFG" target="BRK.B" />
+    <edge source="CFG" target="LUK" />
+    <edge source="CFG" target="TMK" />
+    <edge source="BLK" target="WFC" />
+    <edge source="BLK" target="C" />
+    <edge source="BLK" target="UNP" />
+    <edge source="BLK" target="GLW" />
+    <edge source="BLK" target="STI" />
+    <edge source="BLK" target="MS" />
+    <edge source="BLK" target="AJG" />
+    <edge source="BLK" target="JPM" />
+    <edge source="BLK" target="INFO" />
+    <edge source="BLK" target="PFG" />
+    <edge source="BLK" target="LNC" />
+    <edge source="BLK" target="ETN" />
+    <edge source="BLK" target="AMG" />
+    <edge source="BLK" target="JBHT" />
+    <edge source="BLK" target="L" />
+    <edge source="BLK" target="MET" />
+    <edge source="BLK" target="BEN" />
+    <edge source="BLK" target="DAL" />
+    <edge source="BLK" target="FBHS" />
+    <edge source="BLK" target="RF" />
+    <edge source="BLK" target="DOV" />
+    <edge source="BLK" target="STT" />
+    <edge source="BLK" target="BRK.B" />
+    <edge source="BLK" target="CINF" />
+    <edge source="BLK" target="LUK" />
+    <edge source="BLK" target="TMK" />
+    <edge source="FTI" target="APA" />
+    <edge source="FTI" target="KMI" />
+    <edge source="FTI" target="MUR" />
+    <edge source="FTI" target="DVN" />
+    <edge source="FTI" target="APC" />
+    <edge source="FTI" target="NOV" />
+    <edge source="FTI" target="CHK" />
+    <edge source="FTI" target="XEC" />
+    <edge source="FTI" target="DOV" />
+    <edge source="AMGN" target="CELG" />
+    <edge source="FLR" target="WFC" />
+    <edge source="FLR" target="FLS" />
+    <edge source="FLR" target="STI" />
+    <edge source="FLR" target="MS" />
+    <edge source="FLR" target="CAT" />
+    <edge source="FLR" target="JPM" />
+    <edge source="FLR" target="PFG" />
+    <edge source="FLR" target="MLM" />
+    <edge source="FLR" target="PBCT" />
+    <edge source="FLR" target="LNC" />
+    <edge source="FLR" target="ETN" />
+    <edge source="FLR" target="MET" />
+    <edge source="FLR" target="DOV" />
+    <edge source="FLR" target="BRK.B" />
+    <edge source="FLR" target="LYB" />
+    <edge source="VRSK" target="ADP" />
+    <edge source="CB" target="PGR" />
+    <edge source="CB" target="HIG" />
+    <edge source="CB" target="AJG" />
+    <edge source="CB" target="TRV" />
+    <edge source="CB" target="L" />
+    <edge source="CB" target="AFL" />
+    <edge source="CB" target="BRK.B" />
+    <edge source="CB" target="CINF" />
+    <edge source="CB" target="TMK" />
+    <edge source="ED" target="AEE" />
+    <edge source="ED" target="AWK" />
+    <edge source="ED" target="PNW" />
+    <edge source="ED" target="WEC" />
+    <edge source="ED" target="PCG" />
+    <edge source="ED" target="NI" />
+    <edge source="ED" target="LNT" />
+    <edge source="ED" target="PPL" />
+    <edge source="ED" target="CMS" />
+    <edge source="ED" target="AEP" />
+    <edge source="AAPL" target="AVGO" />
+    <edge source="AAPL" target="GOOG" />
+    <edge source="AAPL" target="LRCX" />
+    <edge source="AAPL" target="AMZN" />
+    <edge source="AAPL" target="FB" />
+    <edge source="KMB" target="CLX" />
+    <edge source="KMB" target="CL" />
+    <edge source="TMO" target="PKI" />
+    <edge source="TMO" target="BAX" />
+    <edge source="WFC" target="C" />
+    <edge source="WFC" target="STI" />
+    <edge source="WFC" target="MS" />
+    <edge source="WFC" target="AJG" />
+    <edge source="WFC" target="JPM" />
+    <edge source="WFC" target="PFG" />
+    <edge source="WFC" target="PBCT" />
+    <edge source="WFC" target="LNC" />
+    <edge source="WFC" target="NAVI" />
+    <edge source="WFC" target="L" />
+    <edge source="WFC" target="MET" />
+    <edge source="WFC" target="BEN" />
+    <edge source="WFC" target="CME" />
+    <edge source="WFC" target="RF" />
+    <edge source="WFC" target="STT" />
+    <edge source="WFC" target="BRK.B" />
+    <edge source="WFC" target="LUK" />
+    <edge source="WFC" target="TMK" />
+    <edge source="EVHC" target="HCA" />
+    <edge source="LEG" target="ALLE" />
+    <edge source="LEG" target="MAS" />
+    <edge source="LEG" target="MHK" />
+    <edge source="LEG" target="FBHS" />
+    <edge source="SNPS" target="NTAP" />
+    <edge source="FCX" target="MOS" />
+    <edge source="MU" target="AVGO" />
+    <edge source="MU" target="LRCX" />
+    <edge source="DE" target="CAT" />
+    <edge source="DE" target="ETN" />
+    <edge source="DE" target="DOV" />
+    <edge source="APA" target="COP" />
+    <edge source="APA" target="MUR" />
+    <edge source="APA" target="DVN" />
+    <edge source="APA" target="APC" />
+    <edge source="APA" target="NOV" />
+    <edge source="APA" target="CHK" />
+    <edge source="APA" target="XEC" />
+    <edge source="APA" target="DOV" />
+    <edge source="EXR" target="PSA" />
+    <edge source="K" target="CAG" />
+    <edge source="K" target="CPB" />
+    <edge source="WRK" target="PFG" />
+    <edge source="WRK" target="LNC" />
+    <edge source="ADI" target="KLAC" />
+    <edge source="ADI" target="QRVO" />
+    <edge source="HCA" target="CNC" />
+    <edge source="APD" target="L" />
+    <edge source="APD" target="SBUX" />
+    <edge source="APD" target="BRK.B" />
+    <edge source="APD" target="TMK" />
+    <edge source="FOX" target="FOXA" />
+    <edge source="FOX" target="DIS" />
+    <edge source="O" target="AWK" />
+    <edge source="O" target="GGP" />
+    <edge source="O" target="HCP" />
+    <edge source="XLNX" target="APH" />
+    <edge source="XLNX" target="KLAC" />
+    <edge source="XLNX" target="LRCX" />
+    <edge source="UDR" target="AVB" />
+    <edge source="AEE" target="AWK" />
+    <edge source="AEE" target="PNW" />
+    <edge source="AEE" target="WEC" />
+    <edge source="AEE" target="PCG" />
+    <edge source="AEE" target="NI" />
+    <edge source="AEE" target="LNT" />
+    <edge source="AEE" target="PPL" />
+    <edge source="AEE" target="CMS" />
+    <edge source="AEE" target="AEP" />
+    <edge source="AVGO" target="GOOG" />
+    <edge source="AVGO" target="SWKS" />
+    <edge source="AVGO" target="MSFT" />
+    <edge source="AVGO" target="KLAC" />
+    <edge source="AVGO" target="LRCX" />
+    <edge source="AVGO" target="QRVO" />
+    <edge source="AVGO" target="FB" />
+    <edge source="PGR" target="TRV" />
+    <edge source="NTAP" target="GLW" />
+    <edge source="FLS" target="CAT" />
+    <edge source="FLS" target="PFG" />
+    <edge source="FLS" target="ETN" />
+    <edge source="FLS" target="NOV" />
+    <edge source="FLS" target="DOV" />
+    <edge source="CBOE" target="CME" />
+    <edge source="CBOE" target="NDAQ" />
+    <edge source="C" target="STI" />
+    <edge source="C" target="MS" />
+    <edge source="C" target="JPM" />
+    <edge source="C" target="PFG" />
+    <edge source="C" target="PBCT" />
+    <edge source="C" target="LNC" />
+    <edge source="C" target="NAVI" />
+    <edge source="C" target="L" />
+    <edge source="C" target="MET" />
+    <edge source="C" target="BEN" />
+    <edge source="C" target="CME" />
+    <edge source="C" target="RF" />
+    <edge source="C" target="STT" />
+    <edge source="C" target="BRK.B" />
+    <edge source="C" target="LUK" />
+    <edge source="C" target="TMK" />
+    <edge source="GOOG" target="MSFT" />
+    <edge source="GOOG" target="CCL" />
+    <edge source="GOOG" target="LRCX" />
+    <edge source="GOOG" target="V" />
+    <edge source="GOOG" target="AMZN" />
+    <edge source="GOOG" target="CRM" />
+    <edge source="GOOG" target="FB" />
+    <edge source="UNP" target="GLW" />
+    <edge source="UNP" target="STI" />
+    <edge source="UNP" target="PFG" />
+    <edge source="UNP" target="LNC" />
+    <edge source="UNP" target="ETN" />
+    <edge source="UNP" target="JBHT" />
+    <edge source="UNP" target="DOV" />
+    <edge source="UNP" target="LUK" />
+    <edge source="UNP" target="TMK" />
+    <edge source="UNP" target="LYB" />
+    <edge source="FOXA" target="DIS" />
+    <edge source="GLW" target="STI" />
+    <edge source="GLW" target="MSFT" />
+    <edge source="GLW" target="JPM" />
+    <edge source="GLW" target="PFG" />
+    <edge source="GLW" target="APH" />
+    <edge source="GLW" target="ETN" />
+    <edge source="GLW" target="BRK.B" />
+    <edge source="GLW" target="LUK" />
+    <edge source="GLW" target="TMK" />
+    <edge source="AWK" target="PNW" />
+    <edge source="AWK" target="WEC" />
+    <edge source="AWK" target="PCG" />
+    <edge source="AWK" target="NI" />
+    <edge source="AWK" target="LNT" />
+    <edge source="AWK" target="HCP" />
+    <edge source="AWK" target="PPL" />
+    <edge source="AWK" target="CMS" />
+    <edge source="AWK" target="AEP" />
+    <edge source="STI" target="MS" />
+    <edge source="STI" target="AJG" />
+    <edge source="STI" target="JPM" />
+    <edge source="STI" target="PFG" />
+    <edge source="STI" target="PBCT" />
+    <edge source="STI" target="LNC" />
+    <edge source="STI" target="NAVI" />
+    <edge source="STI" target="L" />
+    <edge source="STI" target="MET" />
+    <edge source="STI" target="BEN" />
+    <edge source="STI" target="CME" />
+    <edge source="STI" target="RF" />
+    <edge source="STI" target="STT" />
+    <edge source="STI" target="BRK.B" />
+    <edge source="STI" target="LUK" />
+    <edge source="STI" target="TMK" />
+    <edge source="MS" target="JPM" />
+    <edge source="MS" target="PFG" />
+    <edge source="MS" target="PBCT" />
+    <edge source="MS" target="LNC" />
+    <edge source="MS" target="NAVI" />
+    <edge source="MS" target="L" />
+    <edge source="MS" target="MET" />
+    <edge source="MS" target="BEN" />
+    <edge source="MS" target="CME" />
+    <edge source="MS" target="RF" />
+    <edge source="MS" target="STT" />
+    <edge source="MS" target="BRK.B" />
+    <edge source="MS" target="LUK" />
+    <edge source="MS" target="TMK" />
+    <edge source="HIG" target="PFG" />
+    <edge source="HIG" target="LNC" />
+    <edge source="HIG" target="L" />
+    <edge source="HIG" target="MET" />
+    <edge source="HIG" target="RF" />
+    <edge source="HIG" target="BRK.B" />
+    <edge source="HIG" target="TMK" />
+    <edge source="ALK" target="DAL" />
+    <edge source="FISV" target="ADP" />
+    <edge source="FISV" target="APH" />
+    <edge source="FISV" target="FIS" />
+    <edge source="FISV" target="PAYX" />
+    <edge source="FISV" target="MMM" />
+    <edge source="CAT" target="ETN" />
+    <edge source="CAT" target="DOV" />
+    <edge source="AJG" target="WLTW" />
+    <edge source="AJG" target="PFG" />
+    <edge source="AJG" target="PBCT" />
+    <edge source="AJG" target="LNC" />
+    <edge source="AJG" target="L" />
+    <edge source="AJG" target="BRK.B" />
+    <edge source="AJG" target="CINF" />
+    <edge source="AJG" target="LUK" />
+    <edge source="AJG" target="TMK" />
+    <edge source="SWKS" target="MSFT" />
+    <edge source="SWKS" target="KLAC" />
+    <edge source="SWKS" target="LRCX" />
+    <edge source="SWKS" target="QRVO" />
+    <edge source="TRV" target="L" />
+    <edge source="TRV" target="CINF" />
+    <edge source="MSFT" target="APH" />
+    <edge source="MSFT" target="KLAC" />
+    <edge source="MSFT" target="LRCX" />
+    <edge source="MSFT" target="V" />
+    <edge source="MSFT" target="CRM" />
+    <edge source="MSFT" target="FB" />
+    <edge source="PDCO" target="MDT" />
+    <edge source="WLTW" target="BLL" />
+    <edge source="ADP" target="PAYX" />
+    <edge source="JPM" target="PFG" />
+    <edge source="JPM" target="PBCT" />
+    <edge source="JPM" target="LNC" />
+    <edge source="JPM" target="NAVI" />
+    <edge source="JPM" target="L" />
+    <edge source="JPM" target="MET" />
+    <edge source="JPM" target="BEN" />
+    <edge source="JPM" target="DAL" />
+    <edge source="JPM" target="CME" />
+    <edge source="JPM" target="RF" />
+    <edge source="JPM" target="STT" />
+    <edge source="JPM" target="BRK.B" />
+    <edge source="JPM" target="LUK" />
+    <edge source="JPM" target="TMK" />
+    <edge source="TJX" target="DLTR" />
+    <edge source="EQT" target="DVN" />
+    <edge source="EQT" target="CHK" />
+    <edge source="PNW" target="WEC" />
+    <edge source="PNW" target="PCG" />
+    <edge source="PNW" target="NI" />
+    <edge source="PNW" target="LNT" />
+    <edge source="PNW" target="PPL" />
+    <edge source="PNW" target="CMS" />
+    <edge source="PNW" target="AEP" />
+    <edge source="PFG" target="PBCT" />
+    <edge source="PFG" target="LNC" />
+    <edge source="PFG" target="NAVI" />
+    <edge source="PFG" target="ETN" />
+    <edge source="PFG" target="AMG" />
+    <edge source="PFG" target="JBHT" />
+    <edge source="PFG" target="L" />
+    <edge source="PFG" target="MET" />
+    <edge source="PFG" target="BEN" />
+    <edge source="PFG" target="DAL" />
+    <edge source="PFG" target="AFL" />
+    <edge source="PFG" target="RF" />
+    <edge source="PFG" target="DOV" />
+    <edge source="PFG" target="STT" />
+    <edge source="PFG" target="BRK.B" />
+    <edge source="PFG" target="CINF" />
+    <edge source="PFG" target="LUK" />
+    <edge source="PFG" target="TMK" />
+    <edge source="PFG" target="LYB" />
+    <edge source="ARE" target="AVB" />
+    <edge source="ARE" target="SLG" />
+    <edge source="ARE" target="VNO" />
+    <edge source="APH" target="UTX" />
+    <edge source="GGP" target="SLG" />
+    <edge source="GGP" target="VNO" />
+    <edge source="CCL" target="RCL" />
+    <edge source="CCL" target="FB" />
+    <edge source="RCL" target="FB" />
+    <edge source="MOS" target="APC" />
+    <edge source="MOS" target="DOV" />
+    <edge source="MOS" target="CF" />
+    <edge source="MOS" target="LYB" />
+    <edge source="DOW" target="ETN" />
+    <edge source="DOW" target="BRK.B" />
+    <edge source="DOW" target="LYB" />
+    <edge source="PBCT" target="LNC" />
+    <edge source="PBCT" target="NAVI" />
+    <edge source="PBCT" target="L" />
+    <edge source="PBCT" target="MET" />
+    <edge source="PBCT" target="CME" />
+    <edge source="PBCT" target="RF" />
+    <edge source="PBCT" target="STT" />
+    <edge source="PBCT" target="BRK.B" />
+    <edge source="PBCT" target="CINF" />
+    <edge source="PBCT" target="LUK" />
+    <edge source="PBCT" target="TMK" />
+    <edge source="WEC" target="PCG" />
+    <edge source="WEC" target="NI" />
+    <edge source="WEC" target="LNT" />
+    <edge source="WEC" target="PPL" />
+    <edge source="WEC" target="CMS" />
+    <edge source="WEC" target="AEP" />
+    <edge source="KMI" target="COP" />
+    <edge source="KMI" target="MUR" />
+    <edge source="KMI" target="DVN" />
+    <edge source="KMI" target="OKE" />
+    <edge source="KMI" target="APC" />
+    <edge source="KMI" target="CHK" />
+    <edge source="COP" target="MUR" />
+    <edge source="COP" target="DVN" />
+    <edge source="COP" target="OKE" />
+    <edge source="COP" target="APC" />
+    <edge source="COP" target="NOV" />
+    <edge source="COP" target="CHK" />
+    <edge source="COP" target="XEC" />
+    <edge source="COP" target="DOV" />
+    <edge source="COP" target="XOM" />
+    <edge source="KSS" target="DLTR" />
+    <edge source="KLAC" target="LRCX" />
+    <edge source="KLAC" target="CRM" />
+    <edge source="KLAC" target="QRVO" />
+    <edge source="LNC" target="NAVI" />
+    <edge source="LNC" target="ETN" />
+    <edge source="LNC" target="L" />
+    <edge source="LNC" target="MET" />
+    <edge source="LNC" target="BEN" />
+    <edge source="LNC" target="DAL" />
+    <edge source="LNC" target="FBHS" />
+    <edge source="LNC" target="CME" />
+    <edge source="LNC" target="RF" />
+    <edge source="LNC" target="DOV" />
+    <edge source="LNC" target="STT" />
+    <edge source="LNC" target="BRK.B" />
+    <edge source="LNC" target="CINF" />
+    <edge source="LNC" target="LUK" />
+    <edge source="LNC" target="TMK" />
+    <edge source="NAVI" target="RF" />
+    <edge source="NAVI" target="STT" />
+    <edge source="NAVI" target="TMK" />
+    <edge source="PCG" target="NI" />
+    <edge source="PCG" target="LNT" />
+    <edge source="PCG" target="PPL" />
+    <edge source="PCG" target="CMS" />
+    <edge source="PCG" target="AEP" />
+    <edge source="MUR" target="DVN" />
+    <edge source="MUR" target="OKE" />
+    <edge source="MUR" target="APC" />
+    <edge source="MUR" target="NOV" />
+    <edge source="MUR" target="CHK" />
+    <edge source="MUR" target="XEC" />
+    <edge source="MUR" target="DOV" />
+    <edge source="BSX" target="IDXX" />
+    <edge source="ETN" target="L" />
+    <edge source="ETN" target="MPC" />
+    <edge source="ETN" target="MET" />
+    <edge source="ETN" target="FBHS" />
+    <edge source="ETN" target="DOV" />
+    <edge source="ETN" target="BRK.B" />
+    <edge source="ETN" target="LUK" />
+    <edge source="ETN" target="TMK" />
+    <edge source="ETN" target="LYB" />
+    <edge source="AMG" target="BEN" />
+    <edge source="AMG" target="STT" />
+    <edge source="NI" target="LNT" />
+    <edge source="NI" target="PPL" />
+    <edge source="NI" target="CMS" />
+    <edge source="NI" target="AEP" />
+    <edge source="CELG" target="BIIB" />
+    <edge source="DVN" target="OKE" />
+    <edge source="DVN" target="APC" />
+    <edge source="DVN" target="NOV" />
+    <edge source="DVN" target="CHK" />
+    <edge source="DVN" target="XEC" />
+    <edge source="DVN" target="DOV" />
+    <edge source="OKE" target="APC" />
+    <edge source="OKE" target="CHK" />
+    <edge source="LRCX" target="QRVO" />
+    <edge source="LRCX" target="FB" />
+    <edge source="APC" target="NOV" />
+    <edge source="APC" target="CHK" />
+    <edge source="APC" target="XEC" />
+    <edge source="APC" target="DOV" />
+    <edge source="LNT" target="PPL" />
+    <edge source="LNT" target="CMS" />
+    <edge source="LNT" target="AEP" />
+    <edge source="MAS" target="MHK" />
+    <edge source="MAS" target="FBHS" />
+    <edge source="NOV" target="CHK" />
+    <edge source="NOV" target="XEC" />
+    <edge source="NOV" target="DOV" />
+    <edge source="JBHT" target="L" />
+    <edge source="JBHT" target="BRK.B" />
+    <edge source="JBHT" target="TMK" />
+    <edge source="L" target="MET" />
+    <edge source="L" target="AFL" />
+    <edge source="L" target="RF" />
+    <edge source="L" target="DOV" />
+    <edge source="L" target="BRK.B" />
+    <edge source="L" target="CINF" />
+    <edge source="L" target="LUK" />
+    <edge source="L" target="TMK" />
+    <edge source="MPC" target="DOV" />
+    <edge source="CLX" target="CL" />
+    <edge source="AVB" target="SLG" />
+    <edge source="V" target="CRM" />
+    <edge source="MET" target="BEN" />
+    <edge source="MET" target="RF" />
+    <edge source="MET" target="STT" />
+    <edge source="MET" target="BRK.B" />
+    <edge source="MET" target="LUK" />
+    <edge source="MET" target="TMK" />
+    <edge source="CHK" target="XEC" />
+    <edge source="MHK" target="FBHS" />
+    <edge source="AMZN" target="CRM" />
+    <edge source="AMZN" target="FB" />
+    <edge source="CRM" target="FB" />
+    <edge source="ORLY" target="AZO" />
+    <edge source="SLG" target="VNO" />
+    <edge source="DLR" target="HCP" />
+    <edge source="BEN" target="FBHS" />
+    <edge source="BEN" target="STT" />
+    <edge source="BEN" target="BRK.B" />
+    <edge source="BEN" target="TMK" />
+    <edge source="DLTR" target="TGT" />
+    <edge source="AFL" target="BRK.B" />
+    <edge source="AFL" target="TMK" />
+    <edge source="CME" target="RF" />
+    <edge source="CME" target="BRK.B" />
+    <edge source="CME" target="TMK" />
+    <edge source="CME" target="NDAQ" />
+    <edge source="PPL" target="CMS" />
+    <edge source="PPL" target="AEP" />
+    <edge source="RF" target="STT" />
+    <edge source="RF" target="BRK.B" />
+    <edge source="RF" target="LUK" />
+    <edge source="RF" target="TMK" />
+    <edge source="CMS" target="AEP" />
+    <edge source="DOV" target="TMK" />
+    <edge source="DOV" target="LYB" />
+    <edge source="STT" target="BRK.B" />
+    <edge source="STT" target="LUK" />
+    <edge source="STT" target="TMK" />
+    <edge source="BRK.B" target="CINF" />
+    <edge source="BRK.B" target="LUK" />
+    <edge source="BRK.B" target="TMK" />
+    <edge source="BRK.B" target="NDAQ" />
+    <edge source="UTX" target="TMK" />
+    <edge source="CINF" target="TMK" />
+    <edge source="LUK" target="TMK" />
+    <edge source="TMK" target="LYB" />
+    <edge source="CF" target="LYB" />
+  </graph>
+</graphml>
